@@ -1,0 +1,609 @@
+"from","to","weight"
+"Constanze KREHL (DEU-SD)","Pierfrancesco MAJORINO (ITA-SD)",1
+"Constanze KREHL (DEU-SD)","Manuel PIZARRO (PRT-SD)",1
+"Carlos COELHO (PRT-EPP)","Thomas RUDNER (DEU-SD)",1
+"Carlos COELHO (PRT-EPP)","Anja HAGA (NLD-EPP)",1
+"Carlos COELHO (PRT-EPP)","Laura BALLARÍN CEREZA (ESP-SD)",1
+"Carlos COELHO (PRT-EPP)","Ana COLLADO JIMÉNEZ (ESP-EPP)",1
+"Carlos COELHO (PRT-EPP)","Laurence SAILLIET (FRA-EPP)",1
+"Carlos COELHO (PRT-EPP)","Martine KEMP (LUX-EPP)",1
+"Carlos COELHO (PRT-EPP)","Witold PAHL (POL-EPP)",1
+"Carlos COELHO (PRT-EPP)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Carlos COELHO (PRT-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Carlos COELHO (PRT-EPP)","Krzysztof BREJZA (POL-EPP)",1
+"Carlos COELHO (PRT-EPP)","Niels GEUKING (DEU-EPP)",1
+"Evelyne GEBHARDT (DEU-SD)","Johan DANIELSSON (SWE-SD)",1
+"Evelyne GEBHARDT (DEU-SD)","Norbert NEUSER (DEU-SD)",1
+"Evelyne GEBHARDT (DEU-SD)","Miroslav ČÍŽ (SVK-SD)",1
+"Sergio BERLATO (ITA-ECR)","Carlo FIDANZA (ITA-ECR)",1
+"Sergio BERLATO (ITA-ECR)","Vincenzo SOFO (ITA-ECR)",1
+"Adam BIELAN (POL-ECR)","Ryszard CZARNECKI (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Tomasz Piotr PORĘBA (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Jadwiga WIŚNIEWSKA (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Zdzisław KRASNODĘBSKI (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Geert BOURGEOIS (BEL-ECR)",1
+"Adam BIELAN (POL-ECR)","Patryk JAKI (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Beata KEMPA (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Adam BIELAN (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Emmanuel MAUREL (FRA-GUE_NGL)","Dimitrios PAPADIMOULIS (GRC-GUE_NGL)",1
+"Emmanuel MAUREL (FRA-GUE_NGL)","Younous OMARJEE (FRA-GUE_NGL)",1
+"Emmanuel MAUREL (FRA-GUE_NGL)","Manon AUBRY (FRA-GUE_NGL)",1
+"Edina TÓTH (HUN-NI)","Enikő GYŐRI (HUN-NI)",1
+"Edina TÓTH (HUN-NI)","Balázs HIDVÉGHI (HUN-NI)",1
+"Edina TÓTH (HUN-NI)","Andor DELI (HUN-NI)",1
+"Kinga GÁL (HUN-NI)","Ernő SCHALLER-BAROSS (HUN-NI)",1
+"Jacek SARYUSZ-WOLSKI (POL-ECR)","Geert BOURGEOIS (BEL-ECR)",1
+"Mercedes BRESSO (ITA-SD)","Matteo GAZZINI (ITA-ID)",1
+"Ryszard CZARNECKI (POL-ECR)","Tomasz Piotr PORĘBA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Jadwiga WIŚNIEWSKA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Kosma ZŁOTOWSKI (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Zdzisław KRASNODĘBSKI (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Johan VAN OVERTVELDT (BEL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Assita KANKO (BEL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Patryk JAKI (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Beata KEMPA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Izabela-Helena KLOC (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Joanna KOPCIŃSKA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Ryszard CZARNECKI (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Dimitrios PAPADIMOULIS (GRC-GUE_NGL)","Younous OMARJEE (FRA-GUE_NGL)",1
+"Dimitrios PAPADIMOULIS (GRC-GUE_NGL)","Manon AUBRY (FRA-GUE_NGL)",1
+"Younous OMARJEE (FRA-GUE_NGL)","Manon AUBRY (FRA-GUE_NGL)",1
+"Marco CAMPOMENOSI (ITA-ID)","Alessandro PANZA (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Paolo BORCHIA (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Marco ZANNI (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Angelo CIOCCA (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Danilo Oscar LANCINI (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Silvia SARDONE (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Marco CAMPOMENOSI (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Georg MAYER (AUT-ID)","Catherine GRISET (FRA-ID)",1
+"Georg MAYER (AUT-ID)","Harald VILIMSKY (AUT-ID)",1
+"Georg MAYER (AUT-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Georg MAYER (AUT-ID)","Virginie JORON (FRA-ID)",1
+"Georg MAYER (AUT-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Georg MAYER (AUT-ID)","Philippe OLIVIER (FRA-ID)",1
+"Georg MAYER (AUT-ID)","Roman HAIDER (AUT-ID)",1
+"Johan DANIELSSON (SWE-SD)","Norbert NEUSER (DEU-SD)",1
+"Catherine GRISET (FRA-ID)","Gilles LEBRETON (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Dominique BILDE (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Gerolf ANNEMANS (BEL-ID)",1
+"Catherine GRISET (FRA-ID)","Tom VANDENDRIESSCHE (BEL-ID)",1
+"Catherine GRISET (FRA-ID)","France JAMET (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Filip DE MAN (BEL-ID)",1
+"Catherine GRISET (FRA-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Thierry MARIANI (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Virginie JORON (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Catherine GRISET (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Helmut SCHOLZ (DEU-GUE_NGL)","Martina MICHELS (DEU-GUE_NGL)",1
+"Evžen TOŠENOVSKÝ (CZE-ECR)","Alexandr VONDRA (CZE-ECR)",1
+"Evžen TOŠENOVSKÝ (CZE-ECR)","Veronika VRECIONOVÁ (CZE-ECR)",1
+"Ryszard Antoni LEGUTKO (POL-ECR)","Johan VAN OVERTVELDT (BEL-ECR)",1
+"Ryszard Antoni LEGUTKO (POL-ECR)","Assita KANKO (BEL-ECR)",1
+"Ryszard Antoni LEGUTKO (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Jadwiga WIŚNIEWSKA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Kosma ZŁOTOWSKI (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Zdzisław KRASNODĘBSKI (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Johan VAN OVERTVELDT (BEL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Assita KANKO (BEL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Patryk JAKI (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Beata KEMPA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Izabela-Helena KLOC (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Joanna KOPCIŃSKA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Tomasz Piotr PORĘBA (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Carlo FIDANZA (ITA-ECR)","Raffaele STANCANELLI (ITA-ECR)",1
+"Marisa MATIAS (PRT-GUE_NGL)","Leila CHAIBI (FRA-GUE_NGL)",1
+"Tamás DEUTSCH (HUN-NI)","Andrea BOCSKOR (HUN-NI)",1
+"Enikő GYŐRI (HUN-NI)","Balázs HIDVÉGHI (HUN-NI)",1
+"Enikő GYŐRI (HUN-NI)","Andor DELI (HUN-NI)",1
+"Norbert NEUSER (DEU-SD)","Miroslav ČÍŽ (SVK-SD)",1
+"Mara BIZZOTTO (ITA-ID)","Marco DREOSTO (ITA-ID)",1
+"Mara BIZZOTTO (ITA-ID)","Simona BALDASSARRE (ITA-ID)",1
+"Mara BIZZOTTO (ITA-ID)","Massimo CASANOVA (ITA-ID)",1
+"Mara BIZZOTTO (ITA-ID)","Matteo ADINOLFI (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Paolo BORCHIA (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Marco ZANNI (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Angelo CIOCCA (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Danilo Oscar LANCINI (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Silvia SARDONE (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Alessandro PANZA (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Danilo Oscar LANCINI (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Silvia SARDONE (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Paolo BORCHIA (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Martina MICHELS (DEU-GUE_NGL)","Clare DALY (IRL-GUE_NGL)",1
+"Martina MICHELS (DEU-GUE_NGL)","Mick WALLACE (IRL-GUE_NGL)",1
+"Balázs HIDVÉGHI (HUN-NI)","László TRÓCSÁNYI (HUN-NI)",1
+"Gilles LEBRETON (FRA-ID)","Nicolas BAY (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Dominique BILDE (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Gerolf ANNEMANS (BEL-ID)",1
+"Gilles LEBRETON (FRA-ID)","Gunnar BECK (DEU-ID)",1
+"Gilles LEBRETON (FRA-ID)","Tom VANDENDRIESSCHE (BEL-ID)",1
+"Gilles LEBRETON (FRA-ID)","France JAMET (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Filip DE MAN (BEL-ID)",1
+"Gilles LEBRETON (FRA-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Thierry MARIANI (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Virginie JORON (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Gilles LEBRETON (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Dominique BILDE (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Gerolf ANNEMANS (BEL-ID)",1
+"Nicolas BAY (FRA-ID)","Gunnar BECK (DEU-ID)",1
+"Nicolas BAY (FRA-ID)","Tom VANDENDRIESSCHE (BEL-ID)",1
+"Nicolas BAY (FRA-ID)","France JAMET (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Filip DE MAN (BEL-ID)",1
+"Nicolas BAY (FRA-ID)","Sylvia LIMMER (DEU-ID)",1
+"Nicolas BAY (FRA-ID)","Guido REIL (DEU-ID)",1
+"Nicolas BAY (FRA-ID)","Bernhard ZIMNIOK (DEU-ID)",1
+"Nicolas BAY (FRA-ID)","Thierry MARIANI (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Nicolas BAY (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Gerolf ANNEMANS (BEL-ID)",1
+"Dominique BILDE (FRA-ID)","Gunnar BECK (DEU-ID)",1
+"Dominique BILDE (FRA-ID)","Tom VANDENDRIESSCHE (BEL-ID)",1
+"Dominique BILDE (FRA-ID)","France JAMET (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Filip DE MAN (BEL-ID)",1
+"Dominique BILDE (FRA-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Thierry MARIANI (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Virginie JORON (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Dominique BILDE (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Tiziana BEGHIN (ITA-NI)","Laura FERRARA (ITA-NI)",1
+"Tiziana BEGHIN (ITA-NI)","Sabrina PIGNEDOLI (ITA-NI)",1
+"Marco ZANNI (ITA-ID)","Danilo Oscar LANCINI (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Silvia SARDONE (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Marco ZANNI (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Laura FERRARA (ITA-NI)","Sabrina PIGNEDOLI (ITA-NI)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Zdzisław KRASNODĘBSKI (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Geert BOURGEOIS (BEL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Patryk JAKI (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Beata KEMPA (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Jadwiga WIŚNIEWSKA (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Zdzisław KRASNODĘBSKI (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Patryk JAKI (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Izabela-Helena KLOC (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Kosma ZŁOTOWSKI (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Johan VAN OVERTVELDT (BEL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Assita KANKO (BEL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Patryk JAKI (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Beata KEMPA (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Izabela-Helena KLOC (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Joanna KOPCIŃSKA (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Zdzisław KRASNODĘBSKI (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Krzysztof HETMAN (POL-EPP)","Radosław SIKORSKI (POL-EPP)",1
+"Gerolf ANNEMANS (BEL-ID)","Gunnar BECK (DEU-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Tom VANDENDRIESSCHE (BEL-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","France JAMET (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Filip DE MAN (BEL-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Thierry MARIANI (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Hervé JUVIN (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Virginie JORON (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Philippe OLIVIER (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","André ROUGÉ (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Gerolf ANNEMANS (BEL-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Luke Ming FLANAGAN (IRL-GUE_NGL)","Leila CHAIBI (FRA-GUE_NGL)",1
+"Harald VILIMSKY (AUT-ID)","Sylvia LIMMER (DEU-ID)",1
+"Harald VILIMSKY (AUT-ID)","Guido REIL (DEU-ID)",1
+"Harald VILIMSKY (AUT-ID)","Bernhard ZIMNIOK (DEU-ID)",1
+"Harald VILIMSKY (AUT-ID)","Roman HAIDER (AUT-ID)",1
+"Esteban GONZÁLEZ PONS (ESP-EPP)","Agnès EVREN (FRA-EPP)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Geert BOURGEOIS (BEL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Assita KANKO (BEL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Patryk JAKI (POL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Johan VAN OVERTVELDT (BEL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Gunnar BECK (DEU-ID)","Tom VANDENDRIESSCHE (BEL-ID)",1
+"Gunnar BECK (DEU-ID)","France JAMET (FRA-ID)",1
+"Gunnar BECK (DEU-ID)","Filip DE MAN (BEL-ID)",1
+"Gunnar BECK (DEU-ID)","Sylvia LIMMER (DEU-ID)",1
+"Gunnar BECK (DEU-ID)","Guido REIL (DEU-ID)",1
+"Gunnar BECK (DEU-ID)","Bernhard ZIMNIOK (DEU-ID)",1
+"Gunnar BECK (DEU-ID)","Thierry MARIANI (FRA-ID)",1
+"Gunnar BECK (DEU-ID)","Hervé JUVIN (FRA-ID)",1
+"Gunnar BECK (DEU-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Gunnar BECK (DEU-ID)","André ROUGÉ (FRA-ID)",1
+"Gunnar BECK (DEU-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Gunnar BECK (DEU-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Danilo Oscar LANCINI (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Silvia SARDONE (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Angelo CIOCCA (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","France JAMET (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Filip DE MAN (BEL-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Thierry MARIANI (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Hervé JUVIN (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Virginie JORON (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Philippe OLIVIER (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","André ROUGÉ (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Tom VANDENDRIESSCHE (BEL-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"France JAMET (FRA-ID)","Filip DE MAN (BEL-ID)",1
+"France JAMET (FRA-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"France JAMET (FRA-ID)","Thierry MARIANI (FRA-ID)",1
+"France JAMET (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"France JAMET (FRA-ID)","Virginie JORON (FRA-ID)",1
+"France JAMET (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"France JAMET (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"France JAMET (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"France JAMET (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"France JAMET (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"France JAMET (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Silvia SARDONE (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Danilo Oscar LANCINI (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Kris PEETERS (BEL-EPP)","Clotilde ARMAND (ROU-RENEW)",1
+"Geert BOURGEOIS (BEL-ECR)","Assita KANKO (BEL-ECR)",1
+"Geert BOURGEOIS (BEL-ECR)","Beata KEMPA (POL-ECR)",1
+"Geert BOURGEOIS (BEL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Geert BOURGEOIS (BEL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Patryk JAKI (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Assita KANKO (BEL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Filip DE MAN (BEL-ID)","Jérôme RIVIÈRE (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Thierry MARIANI (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Hervé JUVIN (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Virginie JORON (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Philippe OLIVIER (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","André ROUGÉ (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Filip DE MAN (BEL-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Sylvia LIMMER (DEU-ID)","Guido REIL (DEU-ID)",1
+"Sylvia LIMMER (DEU-ID)","Bernhard ZIMNIOK (DEU-ID)",1
+"Sylvia LIMMER (DEU-ID)","Roman HAIDER (AUT-ID)",1
+"Guido REIL (DEU-ID)","Bernhard ZIMNIOK (DEU-ID)",1
+"Guido REIL (DEU-ID)","Roman HAIDER (AUT-ID)",1
+"Bernhard ZIMNIOK (DEU-ID)","Roman HAIDER (AUT-ID)",1
+"Chrysoula ZACHAROPOULOU (FRA-RENEW)","Luis GARICANO (ESP-RENEW)",1
+"Chrysoula ZACHAROPOULOU (FRA-RENEW)","Carlo CALENDA (ITA-SD)",1
+"Joachim Stanisław BRUDZIŃSKI (POL-ECR)","Beata SZYDŁO (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Beata KEMPA (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Izabela-Helena KLOC (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Joanna KOPCIŃSKA (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Patryk JAKI (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Beata KEMPA (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Beata KEMPA (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Beata KEMPA (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Beata KEMPA (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Beata KEMPA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Beata KEMPA (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Izabela-Helena KLOC (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Izabela-Helena KLOC (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Izabela-Helena KLOC (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Izabela-Helena KLOC (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Izabela-Helena KLOC (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Anne-Sophie PELLETIER (FRA-GUE_NGL)","Leila CHAIBI (FRA-GUE_NGL)",1
+"Joanna KOPCIŃSKA (POL-ECR)","Beata MAZUREK (POL-ECR)",1
+"Joanna KOPCIŃSKA (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Joanna KOPCIŃSKA (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Joanna KOPCIŃSKA (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Joanna KOPCIŃSKA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Alexandr VONDRA (CZE-ECR)","Veronika VRECIONOVÁ (CZE-ECR)",1
+"Beata MAZUREK (POL-ECR)","Andżelika Anna MOŻDŻANOWSKA (POL-ECR)",1
+"Beata MAZUREK (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Beata MAZUREK (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Beata MAZUREK (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Beata MAZUREK (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Beata MAZUREK (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Beata MAZUREK (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Andżelika Anna MOŻDŻANOWSKA (POL-ECR)","Elżbieta RAFALSKA (POL-ECR)",1
+"Andżelika Anna MOŻDŻANOWSKA (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Andżelika Anna MOŻDŻANOWSKA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Andżelika Anna MOŻDŻANOWSKA (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Andżelika Anna MOŻDŻANOWSKA (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Andżelika Anna MOŻDŻANOWSKA (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Elżbieta RAFALSKA (POL-ECR)","Bogdan RZOŃCA (POL-ECR)",1
+"Elżbieta RAFALSKA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Elżbieta RAFALSKA (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Elżbieta RAFALSKA (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Elżbieta RAFALSKA (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Bogdan RZOŃCA (POL-ECR)","Grzegorz TOBISZOWSKI (POL-ECR)",1
+"Bogdan RZOŃCA (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Bogdan RZOŃCA (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Bogdan RZOŃCA (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Luis GARICANO (ESP-RENEW)","Carlo CALENDA (ITA-SD)",1
+"Grzegorz TOBISZOWSKI (POL-ECR)","Witold Jan WASZCZYKOWSKI (POL-ECR)",1
+"Grzegorz TOBISZOWSKI (POL-ECR)","Anna ZALEWSKA (POL-ECR)",1
+"Grzegorz TOBISZOWSKI (POL-ECR)","Dominik TARCZYŃSKI (POL-ECR)",1
+"Silvia SARDONE (ITA-ID)","Gianna GANCIA (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Silvia SARDONE (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Gianantonio DA RE (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Gianna GANCIA (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Pierfrancesco MAJORINO (ITA-SD)","Manuel PIZARRO (PRT-SD)",1
+"Hélène LAPORTE (FRA-ID)","Julie LECHANTEUX (FRA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Alessandra BASSO (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Gianantonio DA RE (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Elena LIZZI (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Alessandra BASSO (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Elena LIZZI (ITA-ID)","Rosanna CONTE (ITA-ID)",1
+"Elena LIZZI (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Elena LIZZI (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Elena LIZZI (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Elena LIZZI (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Elena LIZZI (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Marco DREOSTO (ITA-ID)","Simona BALDASSARRE (ITA-ID)",1
+"Marco DREOSTO (ITA-ID)","Massimo CASANOVA (ITA-ID)",1
+"Marco DREOSTO (ITA-ID)","Matteo ADINOLFI (ITA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Thierry MARIANI (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Virginie JORON (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Jérôme RIVIÈRE (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Rosanna CONTE (ITA-ID)","Susanna CECCARDI (ITA-ID)",1
+"Rosanna CONTE (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Rosanna CONTE (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Rosanna CONTE (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Rosanna CONTE (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Thierry MARIANI (FRA-ID)","Hervé JUVIN (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","Virginie JORON (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Thierry MARIANI (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","Virginie JORON (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Hervé JUVIN (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Virginie JORON (FRA-ID)","Jean-Paul GARRAUD (FRA-ID)",1
+"Virginie JORON (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Virginie JORON (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Virginie JORON (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Virginie JORON (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Virginie JORON (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Jean-Paul GARRAUD (FRA-ID)","Aurélia BEIGNEUX (FRA-ID)",1
+"Jean-Paul GARRAUD (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Jean-Paul GARRAUD (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Jean-Paul GARRAUD (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Jean-Paul GARRAUD (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Aurélia BEIGNEUX (FRA-ID)","Philippe OLIVIER (FRA-ID)",1
+"Aurélia BEIGNEUX (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Aurélia BEIGNEUX (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Aurélia BEIGNEUX (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Philippe OLIVIER (FRA-ID)","André ROUGÉ (FRA-ID)",1
+"Philippe OLIVIER (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"Philippe OLIVIER (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"André ROUGÉ (FRA-ID)","Mathilde ANDROUËT (FRA-ID)",1
+"André ROUGÉ (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Mathilde ANDROUËT (FRA-ID)","Jean-Lin LACAPELLE (FRA-ID)",1
+"Clare DALY (IRL-GUE_NGL)","Mick WALLACE (IRL-GUE_NGL)",1
+"Susanna CECCARDI (ITA-ID)","Antonio Maria RINALDI (ITA-ID)",1
+"Susanna CECCARDI (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Susanna CECCARDI (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Susanna CECCARDI (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Antonio Maria RINALDI (ITA-ID)","Anna BONFRISCO (ITA-ID)",1
+"Antonio Maria RINALDI (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Antonio Maria RINALDI (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Anna BONFRISCO (ITA-ID)","Valentino GRANT (ITA-ID)",1
+"Anna BONFRISCO (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Simona BALDASSARRE (ITA-ID)","Massimo CASANOVA (ITA-ID)",1
+"Simona BALDASSARRE (ITA-ID)","Matteo ADINOLFI (ITA-ID)",1
+"Luisa REGIMENTI (ITA-ID)","Andrea CAROPPO (ITA-EPP)",1
+"Valentino GRANT (ITA-ID)","Annalisa TARDINO (ITA-ID)",1
+"Jorge BUXADÉ VILLALBA (ESP-ECR)","Mazaly AGUILAR (ESP-ECR)",1
+"Jorge BUXADÉ VILLALBA (ESP-ECR)","Margarita DE LA PISA CARRIÓN (ESP-ECR)",1
+"Hermann TERTSCH (ESP-ECR)","Margarita DE LA PISA CARRIÓN (ESP-ECR)",1
+"Karsten LUCKE (DEU-SD)","René REPASI (DEU-SD)",1
+"Matjaž NEMEC (SVN-SD)","Max ORVILLE (FRA-RENEW)",1
+"João ALBUQUERQUE (PRT-SD)","Theresa BIELOWSKI (AUT-SD)",1
+"João ALBUQUERQUE (PRT-SD)","Achille VARIATI (ITA-SD)",1
+"João ALBUQUERQUE (PRT-SD)","Beatrice COVASSI (ITA-SD)",1
+"Eva Maria POPTCHEVA (ESP-RENEW)","Matthias ECKE (DEU-SD)",1
+"Carina OHLSSON (SWE-SD)","Bergur Løkke RASMUSSEN (DNK-RENEW)",1
+"Achille VARIATI (ITA-SD)","Beatrice COVASSI (ITA-SD)",1
+"Nikos PAPANDREOU (GRC-SD)","Thomas RUDNER (DEU-SD)",1
+"Nikos PAPANDREOU (GRC-SD)","Laura BALLARÍN CEREZA (ESP-SD)",1
+"Thomas RUDNER (DEU-SD)","Laura BALLARÍN CEREZA (ESP-SD)",1
+"Thomas RUDNER (DEU-SD)","Martine KEMP (LUX-EPP)",1
+"Thomas RUDNER (DEU-SD)","Jozef MIHÁL (SVK-RENEW)",1
+"Thomas RUDNER (DEU-SD)","Witold PAHL (POL-EPP)",1
+"Thomas RUDNER (DEU-SD)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Thomas RUDNER (DEU-SD)","Guy LAVOCAT (FRA-RENEW)",1
+"Anja HAGA (NLD-EPP)","Ana COLLADO JIMÉNEZ (ESP-EPP)",1
+"Anja HAGA (NLD-EPP)","Laurence SAILLIET (FRA-EPP)",1
+"Anja HAGA (NLD-EPP)","Martine KEMP (LUX-EPP)",1
+"Anja HAGA (NLD-EPP)","Witold PAHL (POL-EPP)",1
+"Anja HAGA (NLD-EPP)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Anja HAGA (NLD-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Anja HAGA (NLD-EPP)","Guy LAVOCAT (FRA-RENEW)",1
+"Anja HAGA (NLD-EPP)","Niels GEUKING (DEU-EPP)",1
+"Anja HAGA (NLD-EPP)","Linus GLANZELIUS (SWE-SD)",1
+"Laura BALLARÍN CEREZA (ESP-SD)","Martine KEMP (LUX-EPP)",1
+"Laura BALLARÍN CEREZA (ESP-SD)","Jozef MIHÁL (SVK-RENEW)",1
+"Laura BALLARÍN CEREZA (ESP-SD)","Witold PAHL (POL-EPP)",1
+"Laura BALLARÍN CEREZA (ESP-SD)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Laura BALLARÍN CEREZA (ESP-SD)","Guy LAVOCAT (FRA-RENEW)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Laurence SAILLIET (FRA-EPP)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Martine KEMP (LUX-EPP)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Witold PAHL (POL-EPP)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Guy LAVOCAT (FRA-RENEW)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Niels GEUKING (DEU-EPP)",1
+"Ana COLLADO JIMÉNEZ (ESP-EPP)","Linus GLANZELIUS (SWE-SD)",1
+"Laurence SAILLIET (FRA-EPP)","Martine KEMP (LUX-EPP)",1
+"Laurence SAILLIET (FRA-EPP)","Witold PAHL (POL-EPP)",1
+"Laurence SAILLIET (FRA-EPP)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Laurence SAILLIET (FRA-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Laurence SAILLIET (FRA-EPP)","Guy LAVOCAT (FRA-RENEW)",1
+"Laurence SAILLIET (FRA-EPP)","Niels GEUKING (DEU-EPP)",1
+"Laurence SAILLIET (FRA-EPP)","Linus GLANZELIUS (SWE-SD)",1
+"Wolfram PIRCHNER (AUT-EPP)","Krzysztof BREJZA (POL-EPP)",1
+"Martine KEMP (LUX-EPP)","Witold PAHL (POL-EPP)",1
+"Martine KEMP (LUX-EPP)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Martine KEMP (LUX-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Martine KEMP (LUX-EPP)","Krzysztof BREJZA (POL-EPP)",1
+"Martine KEMP (LUX-EPP)","Niels GEUKING (DEU-EPP)",1
+"Witold PAHL (POL-EPP)","Włodzimierz KARPIŃSKI (POL-EPP)",1
+"Witold PAHL (POL-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Witold PAHL (POL-EPP)","Krzysztof BREJZA (POL-EPP)",1
+"Witold PAHL (POL-EPP)","Niels GEUKING (DEU-EPP)",1
+"Włodzimierz KARPIŃSKI (POL-EPP)","Michael KAUCH (DEU-RENEW)",1
+"Włodzimierz KARPIŃSKI (POL-EPP)","Krzysztof BREJZA (POL-EPP)",1
+"Włodzimierz KARPIŃSKI (POL-EPP)","Niels GEUKING (DEU-EPP)",1
+"Michael KAUCH (DEU-RENEW)","Guy LAVOCAT (FRA-RENEW)",1
+"Michael KAUCH (DEU-RENEW)","Niels GEUKING (DEU-EPP)",1
+"Michael KAUCH (DEU-RENEW)","Linus GLANZELIUS (SWE-SD)",1
+"Guy LAVOCAT (FRA-RENEW)","Niels GEUKING (DEU-EPP)",1
+"Niels GEUKING (DEU-EPP)","Linus GLANZELIUS (SWE-SD)",1
+"Vasco BECKER-WEINBERG (PRT-EPP)","Ana Miguel DOS SANTOS (PRT-EPP)",1
+"Vasco BECKER-WEINBERG (PRT-EPP)","Vânia NETO (PRT-EPP)",1
+"Vasco BECKER-WEINBERG (PRT-EPP)","Teófilo SANTOS (PRT-EPP)",1
+"Vasco BECKER-WEINBERG (PRT-EPP)","Ricardo MORGADO (PRT-EPP)",1
+"Ana Miguel DOS SANTOS (PRT-EPP)","Vânia NETO (PRT-EPP)",1
+"Ana Miguel DOS SANTOS (PRT-EPP)","Teófilo SANTOS (PRT-EPP)",1
+"Ana Miguel DOS SANTOS (PRT-EPP)","Ricardo MORGADO (PRT-EPP)",1
+"Vânia NETO (PRT-EPP)","Teófilo SANTOS (PRT-EPP)",1
+"Vânia NETO (PRT-EPP)","Ricardo MORGADO (PRT-EPP)",1
+"Teófilo SANTOS (PRT-EPP)","Ricardo MORGADO (PRT-EPP)",1

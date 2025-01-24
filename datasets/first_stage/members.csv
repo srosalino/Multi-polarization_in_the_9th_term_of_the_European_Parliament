@@ -1,0 +1,874 @@
+id,first_name,last_name,country_code,date_of_birth,email,facebook,twitter
+840,Charles,GOERENS,LUX,1952-02-06,charles.goerens@europarl.europa.eu,https://www.facebook.com/charles.goerens,https://twitter.com/CharlesGoerens
+1394,Bill,NEWTON DUNN,GBR,,,,
+1854,Constanze,KREHL,DEU,1956-10-14,,,
+1892,Carlos,COELHO,PRT,1960-05-20,carlos.coelho@europarl.europa.eu,https://www.facebook.com/carloscoelhopt/,http://twitter.com/CarlosCoelhoPT
+1909,Bernd,LANGE,DEU,1955-11-14,bernd.lange@europarl.europa.eu,https://www.facebook.com/bernd.lange.europa/,https://twitter.com/berndlange
+1913,Evelyne,GEBHARDT,DEU,1954-01-19,,,
+1917,Markus,FERBER,DEU,1965-01-15,markus.ferber@europarl.europa.eu,https://www.facebook.com/MarkusFerberEU,https://twitter.com/MarkusFerber
+1927,Peter,LIESE,DEU,1965-05-20,peter.liese@europarl.europa.eu,https://www.facebook.com/peter.liese,http://twitter.com/peterliese
+1992,José Manuel,GARCÍA-MARGALLO Y MARFIL,ESP,1944-08-13,jose.margallo@europarl.europa.eu,https://www.facebook.com/JMGMargallo/,https://twitter.com/MargalloJm
+2054,Heidi,HAUTALA,FIN,1955-11-14,heidi.hautala@europarl.europa.eu,https://www.facebook.com/MEPheidihautala,https://twitter.com/HeidiHautala
+2187,Antonio,TAJANI,ITA,1953-08-04,,,
+2309,Richard,CORBETT,GBR,1955-01-06,,,
+2323,Rainer,WIELAND,DEU,1957-02-19,rainer.wieland@europarl.europa.eu,https://www.facebook.com/wieland.mdep,
+2341,Michael,GAHLER,DEU,1960-04-22,michael.gahler@europarl.europa.eu,https://www.facebook.com/Michael.Gahler.EU/,https://twitter.com/gahler_michael
+4246,Othmar,KARAS,AUT,1957-12-24,othmar.karas@europarl.europa.eu,https://www.facebook.com/othmar.karas,https://twitter.com/othmar_karas
+4253,Frédérique,RIES,BEL,1959-05-14,frederique.ries@europarl.europa.eu,https://www.facebook.com/frederiqueries/,http://twitter.com/Frederiqueries
+4267,Udo,BULLMANN,DEU,1956-06-08,udo.bullmann@europarl.europa.eu,,
+4289,Angelika,NIEBLER,DEU,1963-02-18,angelika.niebler@europarl.europa.eu,https://www.facebook.com/aniebler,https://twitter.com/ANiebler
+4344,María Soraya,RODRÍGUEZ RAMOS,ESP,,soraya.rodriguezramos@europarl.europa.eu,,https://twitter.com/sorayarr_
+4391,Silvio,BERLUSCONI,ITA,1936-09-29,,,
+4465,Raffaele,FITTO,ITA,1969-08-28,,,
+4513,Geoffrey,VAN ORDEN,GBR,1945-04-10,,,
+4519,Claude,MORAES,GBR,,,,
+4525,Nigel,FARAGE,GBR,1964-04-03,,,
+4533,Neena,GILL,GBR,,,,
+4550,Jill,EVANS,GBR,1959-05-08,,,
+4554,Chris,DAVIES,GBR,1954-07-07,,,
+4555,Daniel,HANNAN,GBR,1971-09-01,,,
+4560,Antonius,MANDERS,NLD,1956-03-14,antonius.manders@europarl.europa.eu,https://www.facebook.com/toine.manders.5,https://twitter.com/ToineMandersEP
+4746,Sergio,BERLATO,ITA,1959-07-27,sergio.berlato@europarl.europa.eu,https://www.facebook.com/SergioBerlato.paginaufficiale/,https://twitter.com/SERGIOBERLATO
+5392,Lara,WOLTERS,NLD,1986-04-12,lara.wolters@europarl.europa.eu,https://www.facebook.com/larawolters0/,https://twitter.com/larawoltersEU
+5565,Brice,HORTEFEUX,FRA,1958-05-11,brice.hortefeux@europarl.europa.eu,,https://twitter.com/bricehortefeux
+5729,Kathleen,VAN BREMPT,BEL,1969-11-18,kathleen.vanbrempt@europarl.europa.eu,,
+22858,Fabienne,KELLER,FRA,1959-10-20,fabienne.keller@europarl.europa.eu,https://www.facebook.com/KellerFabienne,https://twitter.com/fabienne_keller
+23699,Kateřina,KONEČNÁ,CZE,1981-01-20,katerina.konecna@europarl.europa.eu,,
+23712,Jan,ZAHRADIL,CZE,1963-03-20,jan.zahradil@europarl.europa.eu,https://www.facebook.com/zahradil,https://twitter.com/ZahradilJan
+23768,Bogusław,LIBERADZKI,POL,1948-09-12,boguslaw.liberadzki@europarl.europa.eu,https://www.facebook.com/BoguslawLiberadzki,https://twitter.com/BLiberadzki
+23781,Janusz,LEWANDOWSKI,POL,1951-06-13,janusz.lewandowski@europarl.europa.eu,https://www.facebook.com/Lewandowski.Janusz,https://twitter.com/J_Lewandowski
+23788,Adam,BIELAN,POL,1974-09-12,adam.bielan@europarl.europa.eu,https://www.facebook.com/adambielan,http://twitter.com/AdamBielan
+23816,András,GYÜRK,HUN,,andras.gyurk@europarl.europa.eu,,
+23821,József,SZÁJER,HUN,1961-09-07,,,
+23868,Monika,BEŇOVÁ,SVK,1968-08-15,monika.benova@europarl.europa.eu,https://www.facebook.com/monikabenovaep,
+24505,Emmanuel,MAUREL,FRA,1973-05-10,emmanuel.maurel@europarl.europa.eu,https://www.facebook.com/emmanuelmaurel/,https://twitter.com/emmanuelmaurel
+24594,Anne,SANDER,FRA,1973-10-01,anne.sander@europarl.europa.eu,https://www.facebook.com/annesanderMEP/,https://twitter.com/AnneSanderElue
+24922,Pascal,ARIMONT,BEL,1974-09-25,pascal.arimont@europarl.europa.eu,https://www.facebook.com/pascalarimont.official,https://twitter.com/pascal_arimont
+24942,Ana,MIRANDA,ESP,1971-05-02,ana.miranda@europarl.europa.eu,,https://twitter.com/anamirandapaz
+26837,Lefteris,CHRISTOFOROU,CYP,1963-08-31,,,
+27714,Edina,TÓTH,HUN,1975-03-11,edina.toth@europarl.europa.eu,https://www.facebook.com/TothEdinaEP/,https://twitter.com/toth_edina
+28115,Mairead,McGUINNESS,IRL,1959-06-13,,,
+28122,David,CASA,MLT,1968-11-16,david.casa@europarl.europa.eu,https://www.facebook.com/DavidCasaMEP/,https://twitter.com/DavidCasaMEP
+28141,Lívia,JÁRÓKA,HUN,1974-10-06,livia.jaroka@europarl.europa.eu,https://www.facebook.com/JarokaLivia/,https://twitter.com/JarokaLivia
+28150,Kinga,GÁL,HUN,,kinga.gal@europarl.europa.eu,,
+28161,Margrete,AUKEN,DNK,,margrete.auken@europarl.europa.eu,https://www.facebook.com/margreteauken,https://twitter.com/MargreteAuken
+28219,Daniel,CASPARY,DEU,1976-04-04,daniel.caspary@europarl.europa.eu,https://www.facebook.com/daniel.caspary.mdep/,https://twitter.com/caspary
+28223,Andreas,SCHWAB,DEU,1973-04-09,andreas.schwab@europarl.europa.eu,https://www.facebook.com/aschwab.mdep/,https://twitter.com/Andreas_Schwab
+28224,Markus,PIEPER,DEU,,markus.pieper@europarl.europa.eu,https://www.facebook.com/markuspieperMEP,https://twitter.com/markuspiepermep
+28226,Christian,EHLER,DEU,1963-08-17,christian.ehler@europarl.europa.eu,https://www.facebook.com/ehler/,https://twitter.com/mep_ehler
+28229,Manfred,WEBER,DEU,1972-07-14,manfred.weber@europarl.europa.eu,https://www.facebook.com/manfred.weber,https://twitter.com/ManfredWeber
+28266,Sophia,IN 'T VELD,NLD,1963-09-13,sophie.intveld@europarl.europa.eu,https://www.facebook.com/sophieintveld,https://twitter.com/SophieintVeld
+28269,Jerzy,BUZEK,POL,1940-07-03,jerzy.buzek@europarl.europa.eu,https://www.facebook.com/jerzykarol.buzek,http://twitter.com/JerzyBuzek
+28288,Jan,OLBRYCHT,POL,1952-09-21,jan.olbrycht@europarl.europa.eu,https://www.facebook.com/J.Olbrycht,http://twitter.com/JanOlbrycht
+28294,Ljudmila,NOVAK,SVN,1959-08-01,Ljudmila.novak@europarl.europa.eu,https://www.facebook.com/ljudmila.novak/,https://twitter.com/ljudmilanovak
+28297,Jacek,SARYUSZ-WOLSKI,POL,1948-09-19,jacek.saryusz-wolski@europarl.europa.eu,https://fr-fr.facebook.com/JacekSaryuszWolski/,https://twitter.com/JSaryuszWolski
+28298,Iratxe,GARCÍA PÉREZ,ESP,1974-10-07,iratxe.garcia-perez@europarl.europa.eu,https://www.facebook.com/iratxe.garciaperez?fref=ts,https://twitter.com/IratxeGarper
+28340,Patrizia,TOIA,ITA,1950-03-17,patrizia.toia@europarl.europa.eu,https://www.facebook.com/ToiaPatrizia,https://twitter.com/toiapatrizia
+28346,Mercedes,BRESSO,ITA,1944-07-12,mercedes.bresso@europarl.europa.eu,https://www.facebook.com/mercedesbresso,
+28347,Javier,MORENO SÁNCHEZ,ESP,1965-03-12,javier.morenosanchez@europarl.europa.eu,,
+28353,Anna,FOTYGA,POL,1957-01-12,anna.fotyga@europarl.europa.eu,https://www.facebook.com/Anna.Fotyga.PE,https://twitter.com/AnnaFotyga_PE
+28372,Ryszard,CZARNECKI,POL,1963-01-25,ryszard.czarnecki@europarl.europa.eu,https://www.facebook.com/rysz.czarnecki,https://twitter.com/r_czarnecki
+28389,Zbigniew,KUŹMIUK,POL,1956-09-19,,,
+28390,Pilar,del CASTILLO VERA,ESP,1952-07-31,pilar.delcastillo@europarl.europa.eu,https://www.facebook.com/PilardelCastilloOficial,http://twitter.com/delcastillop
+28399,Antonio,LÓPEZ-ISTÚRIZ WHITE,ESP,1970-04-01,antonio.lopezisturiz@europarl.europa.eu,https://www.facebook.com/tonoepp/,https://twitter.com/TonoEPP
+28400,Francisco José,MILLÁN MON,ESP,1955-03-08,francisco.millanmon@europarl.europa.eu,https://www.facebook.com/Francisco-Mill%C3%A1n-Mon-101795278943999,https://twitter.com/PacoMillanMon
+28429,Alessandra,MUSSOLINI,ITA,1962-12-30,alessandra.mussolini@europarl.europa.eu,,https://twitter.com/Ale_Mussolini_
+28508,Alyn,SMITH,GBR,1973-09-15,,,
+28586,Dimitrios,PAPADIMOULIS,GRC,1955-03-21,dimitrios.papadimoulis@europarl.europa.eu,https://www.facebook.com/papadimoulis,https://twitter.com/papadimoulis
+28615,Roberts,ZĪLE,LVA,1958-06-20,roberts.zile@europarl.europa.eu,,
+28617,Inese,VAIDERE,LVA,1952-09-03,inese.vaidere@europarl.europa.eu,https://www.facebook.com/Prof.Inese.Vaidere,https://twitter.com/inesevaidere
+28619,Tatjana,ŽDANOKA,LVA,1950-05-08,tatjana.zdanoka@europarl.europa.eu,https://www.facebook.com/tatjana.zdanoka,https://twitter.com/Tatjana_Zdanoka
+29579,Marc,TARABELLA,BEL,1963-03-11,marc.tarabella@europarl.europa.eu,https://www.facebook.com/marc.tarabella,https://twitter.com/marctarabella
+30482,Younous,OMARJEE,FRA,1969-09-30,younous.omarjee@europarl.europa.eu,https://www.facebook.com/younous.omarjee,https://twitter.com/younousomarjee
+30490,Aileen,McLEOD,GBR,1971-08-24,,,
+33982,Marian-Jean,MARINESCU,ROU,1952-08-11,marian-jean.marinescu@europarl.europa.eu,https://www.facebook.com/marianjean.marinescu,https://twitter.com/MarianMarinescu
+33997,Corina,CREȚU,ROU,1967-06-24,corina.cretu@europarl.europa.eu,,
+34578,Robert,HAJŠEL,SVK,1967-03-28,robert.hajsel@europarl.europa.eu,https://www.facebook.com/roberthajselEU,https://twitter.com/RobertHajsel
+35016,Marco,CAMPOMENOSI,ITA,1975-09-02,marco.campomenosi@europarl.europa.eu,https://www.facebook.com/marco.campomenosi/,https://twitter.com/mcampomenosi?lang=en
+36392,Aldo,PATRICIELLO,ITA,1957-09-27,aldo.patriciello@europarl.europa.eu,https://www.facebook.com/AldoPatriciello,https://twitter.com/PatricielloAldo
+37229,Kati,PIRI,NLD,1979-04-08,,,
+37312,Christel,SCHALDEMOSE,DNK,1967-08-04,christel.schaldemose@europarl.europa.eu,https://www.facebook.com/ChristelSchaldemose,https://twitter.com/SchaldemoseMEP
+37324,Adina-Ioana,VĂLEAN,ROU,,,,
+38398,Esther,DE LANGE,NLD,1975-02-19,,,
+38420,Cristian-Silviu,BUŞOI,ROU,1978-03-01,cristiansilviu.busoi@europarl.europa.eu,http://www.facebook.com/profile.php?id=1536380222,
+38511,Georg,MAYER,AUT,,georg.mayer@europarl.europa.eu,,
+38542,Johan,DANIELSSON,SWE,1982-06-30,,,
+38595,Rovana,PLUMB,ROU,1960-06-22,rovana.plumb@europarl.europa.eu,,
+39725,Iuliu,WINKLER,ROU,1964-03-14,iuliu.winkler@europarl.europa.eu,https://www.facebook.com/winkler.gyula/,https://twitter.com/iuliuwinkler
+40599,Sirpa,PIETIKÄINEN,FIN,1959-04-19,sirpa.pietikainen@europarl.europa.eu,https://www.facebook.com/MEPsirpapietikainen,https://twitter.com/spietikainen
+58766,Nicolae,ŞTEFĂNUȚĂ,ROU,1982-01-03,nicolae.stefanuta@europarl.europa.eu,https://www.facebook.com/nicustefanutaUSRinPE/,https://twitter.com/nicustefanuta
+58789,Jan,HUITEMA,NLD,1984-07-05,jan.huitema@europarl.europa.eu,https://www.facebook.com/janhuitemamep/,https://twitter.com/jhuitema
+72779,Nadine,MORANO,FRA,1963-11-06,nadine.morano@europarl.europa.eu,https://www.facebook.com/Nadine.Morano,https://twitter.com/nadine__morano
+86793,Anna,CAVAZZINI,DEU,1982-12-12,anna.cavazzini@europarl.europa.eu,,https://twitter.com/anna_cavazzini
+88715,José,GUSMÃO,PRT,1976-07-20,jose.gusmao@europarl.europa.eu,https://www.facebook.com/josegusmao76,https://www.twitter.com/joseggusmao
+88882,Victor,NEGRESCU,ROU,,victor.negrescu@europarl.europa.eu,https://it-it.facebook.com/victornegrescu/,https://twitter.com/negrescuvictor
+94649,Catherine,GRISET,FRA,1972-08-20,catherine.griset@europarl.europa.eu,https://www.facebook.com/CatherineGriset.RN/,https://twitter.com/GrisetCatherine
+95074,Jeroen,LENAERS,NLD,1984-04-29,jeroen.lenaers@europarl.europa.eu,https://www.facebook.com/jlenaersCDA,https://twitter.com/jeroen_lenaers
+96646,Helmut,SCHOLZ,DEU,1954-06-21,helmut.scholz@europarl.europa.eu,https://de-de.facebook.com/HelmutScholzMEP/,https://twitter.com/HelmutScholzMEP
+96648,Philippe,LAMBERTS,BEL,1963-03-14,philippe.lamberts@europarl.europa.eu,https://www.facebook.com/philippelambertseurope/,
+96653,Katarína,ROTH NEVEĎALOVÁ,SVK,1982-11-10,katarina.roth@europarl.europa.eu,https://www.facebook.com/europoslankyna,
+96668,Seán,KELLY,IRL,1952-04-26,sean.kelly@europarl.europa.eu,https://www.facebook.com/sean.kellymep,https://twitter.com/SeanKellyMEP
+96681,Vilija,BLINKEVIČIŪTĖ,LTU,1960-03-03,vilija.blinkeviciute@europarl.europa.eu,,
+96697,Waldemar,TOMASZEWSKI,LTU,1965-03-03,valdemar.tomasevski@europarl.europa.eu,https://www.facebook.com/VTomasevski,
+96698,Viktor,USPASKICH,LTU,1959-07-24,viktor.uspaskich@europarl.europa.eu,https://www.facebook.com/people/Viktor-Uspaskich/100004808381839,http://twitter.com/ViktorUspaskich
+96706,João,FERREIRA,PRT,1978-11-20,,,
+96708,Oriol,JUNQUERAS I VIES,ESP,1969-04-11,,,
+96709,Morten,LØKKEGAARD,DNK,,morten.lokkegaard@europarl.europa.eu,https://www.facebook.com/morten.lokkegaard,http://twitter.com/loekkegaard_mep
+96711,Pascal,CANFIN,FRA,1974-08-22,pascal.canfin@europarl.europa.eu,https://www.facebook.com/pascal.canfin.7/,https://twitter.com/pcanfin?lang=en
+96713,Evžen,TOŠENOVSKÝ,CZE,1956-02-26,evzen.tosenovsky@europarl.europa.eu,,
+96725,Bas,EICKHOUT,NLD,1976-10-08,bas.eickhout@europarl.europa.eu,https://www.facebook.com/bas.eickhout,https://twitter.com/BasEickhout
+96730,Sven,GIEGOLD,DEU,1969-11-17,,,
+96734,Ska,KELLER,DEU,1981-11-22,franziska.keller@europarl.europa.eu,,https://twitter.com/SkaKeller
+96739,Reinhard,BÜTIKOFER,DEU,1953-01-26,reinhard.buetikofer@europarl.europa.eu,,
+96740,Yannick,JADOT,FRA,1967-07-27,,,
+96743,Michèle,RIVASI,FRA,1953-02-09,,,
+96747,Arnaud,DANJEAN,FRA,1971-02-11,arnaud.danjean@europarl.europa.eu,,https://twitter.com/ArnaudDanjean
+96750,François,ALFONSI,FRA,1953-09-14,francois.alfonsi@europarl.europa.eu,,
+96752,Martin,HÄUSLING,DEU,1961-03-26,martin.haeusling@europarl.europa.eu,https://www.facebook.com/martin.hausling,https://twitter.com/MartinHaeusling
+96756,Sabine,VERHEYEN,DEU,1964-10-24,sabine.verheyen@europarl.europa.eu,https://www.facebook.com/mdep.ac,https://twitter.com/sabineverheyen
+96761,Axel,VOSS,DEU,1963-04-07,axel.voss@europarl.europa.eu,https://www.facebook.com/AxelVossMdEP,http://twitter.com/AxelVossMdEP
+96771,Jarosław,KALINOWSKI,POL,1962-04-12,jaroslaw.kalinowski@europarl.europa.eu,https://www.facebook.com/JaroslawKalinowski/,
+96772,Peter,JAHR,DEU,1959-04-24,peter.jahr@europarl.europa.eu,https://www.facebook.com/DrPeterJahr/,https://twitter.com/peter_jahr
+96775,Lara,COMI,ITA,1983-02-18,lara.comi@europarl.europa.eu,,
+96776,Róża,THUN UND HOHENSTEIN,POL,1954-04-13,roza.thun@europarl.europa.eu,https://www.facebook.com/rozathun,https://twitter.com/rozathun
+96779,Danuta Maria,HÜBNER,POL,1948-04-08,danuta.huebner@europarl.europa.eu,https://www.facebook.com/danuta.hubner,https://twitter.com/danutahuebner
+96780,Monika,HOHLMEIER,DEU,1962-07-02,monika.hohlmeier@europarl.europa.eu,https://www.facebook.com/mhohlmeier/,https://twitter.com/mhohlmeier
+96787,Herbert,DORFMANN,ITA,1969-03-04,herbert.dorfmann@europarl.europa.eu,https://www.facebook.com/herbert.dorfmann/,https://twitter.com/HerbertDorfmann
+96791,Elżbieta Katarzyna,ŁUKACIJEWSKA,POL,1966-11-25,elzbieta.lukacijewska@europarl.europa.eu,https://www.facebook.com/lukacijewska,https://twitter.com/elukacijewska
+96796,Ryszard Antoni,LEGUTKO,POL,1949-12-24,ryszardantoni.legutko@europarl.europa.eu,,
+96801,Tomasz Piotr,PORĘBA,POL,,tomasz.poreba@europarl.europa.eu,,
+96808,Pablo,ARIAS ECHEVERRÍA,ESP,1970-06-30,pablo.ariasecheverria@europarl.europa.eu,,
+96809,Peter,van DALEN,NLD,1958-09-03,,,
+96810,Carlo,FIDANZA,ITA,1976-09-21,carlo.fidanza@europarl.europa.eu,https://www.facebook.com/fidanzacarlo,http://twitter.com/fidanzacarlo
+96811,Rosa,ESTARÀS FERRAGUT,ESP,1965-10-21,rosa.estaras@europarl.europa.eu,,
+96812,Juan Fernando,LÓPEZ AGUILAR,ESP,1961-06-10,juanfernando.lopezaguilar@europarl.europa.eu,https://www.facebook.com/JFLAguilar,https://twitter.com/JFLopezAguilar
+96820,Marisa,MATIAS,PRT,1976-02-20,,,
+96826,Tamás,DEUTSCH,HUN,1966-07-27,tamas.deutsch@europarl.europa.eu,https://facebook.com/people/Deutsch-Tamás/100000694338124,https://twitter.com/dajcstomi
+96829,Ádám,KÓSA,HUN,1975-07-01,adam.kosa@europarl.europa.eu,https://www.facebook.com/adamkosamep/,https://twitter.com/adamkosamep
+96830,Enikő,GYŐRI,HUN,1968-07-17,eniko.gyori@europarl.europa.eu,,https://twitter.com/GyoriEniko
+96833,Jens,GEIER,DEU,,jens.geier@europarl.europa.eu,,
+96837,Petra,KAMMEREVERT,DEU,1966-06-01,petra.kammerevert@europarl.europa.eu,,
+96842,Ismail,ERTUG,DEU,1975-12-05,,,
+96844,Norbert,NEUSER,DEU,1949-03-22,,,
+96852,Cornelia,ERNST,DEU,,cornelia.ernst@europarl.europa.eu,,https://twitter.com/ernstcornelia?lang=en
+96864,David Maria,SASSOLI,ITA,1956-05-30,,,
+96867,Maria da Graça,CARVALHO,PRT,,,,
+96868,Karima,DELLI,FRA,1979-03-04,karima.delli@europarl.europa.eu,http://www.facebook.com/karima.delli#!/karima.delli?sk=wall,https://twitter.com/KarimaDelli
+96880,Andrea,COZZOLINO,ITA,1962-08-03,andrea.cozzolino@europarl.europa.eu,https://www.facebook.com/cozzolinoandrea,https://twitter.com/cozzolino62
+96885,Dominique,RIQUET,FRA,1946-09-18,dominique.riquet@europarl.europa.eu,https://www.facebook.com/d.riquet/,https://twitter.com/DominiqueRiquet
+96891,Paolo,DE CASTRO,ITA,1958-02-02,paolo.decastro@europarl.europa.eu,https://www.facebook.com/paolo.decastro,https://twitter.com/paolodecastro
+96892,Roberto,GUALTIERI,ITA,1966-07-19,,,
+96899,José Manuel,FERNANDES,PRT,1967-07-26,,,
+96903,Paulo,RANGEL,PRT,1968-02-18,,,
+96911,Tanja,FAJON,SVN,1971-05-09,,,
+96922,Izaskun,BILBAO BARANDICA,ESP,1961-03-27,izaskun.bilbaobarandica@europarl.europa.eu,https://www.facebook.com/izaskunbilbao,https://twitter.com/IzaskunBilbaoB
+96932,Birgit,SIPPEL,DEU,1960-01-29,birgit.sippel@europarl.europa.eu,https://www.facebook.com/BirgitSippel,https://twitter.com/BirgitSippelMEP
+96933,Milan,ZVER,SVN,1962-05-25,milan.zver@europarl.europa.eu,https://www.facebook.com/milan.zver,https://twitter.com/MilanZver
+96934,Sandra,KALNIETE,LVA,1952-12-22,sandra.kalniete@europarl.europa.eu,https://www.facebook.com/kalniete.sandra/,https://twitter.com/kalniete
+96936,Gabriel,MATO,ESP,1961-04-29,gabriel.mato@europarl.europa.eu,https://www.facebook.com/gabrielmatoadrover/,https://twitter.com/GabrielMatoA
+96951,Diane,DODDS,GBR,1958-08-16,,,
+96952,Sylvie,GUILLAUME,FRA,,sylvie.guillaume@europarl.europa.eu,,
+96955,Catherine,BEARDER,GBR,1949-01-14,,,
+96978,Nuno,MELO,PRT,1966-03-18,,,
+96991,Eider,GARDIAZABAL RUBIAL,ESP,1975-07-12,eider.gardiazabalrubial@europarl.europa.eu,http://www.facebook.com/eider.gardiazabal,https://twitter.com/EGardiazabal
+96998,Evelyn,REGNER,AUT,1966-01-24,evelyn.regner@europarl.europa.eu,https://www.facebook.com/evelyn.regner,https://twitter.com/Evelyn_Regner
+97058,Guy,VERHOFSTADT,BEL,1953-04-11,guy.verhofstadt@europarl.europa.eu,http://www.facebook.com/verhofstadt.guy,http://twitter.com/GuyVerhofstadt
+97133,Derk Jan,EPPINK,NLD,1958-11-07,,,
+97198,Mara,BIZZOTTO,ITA,1972-06-03,,,
+97236,Marie,TOUSSAINT,FRA,1987-05-27,marie.toussaint@europarl.europa.eu,,https://twitter.com/marietouss1
+97968,Andrey,KOVATCHEV,BGR,1967-12-13,andrey.kovatchev@europarl.europa.eu,https://www.facebook.com/Andrey-Kovatchev-133004451640/,http://twitter.com/andreykovatchev
+98341,Eva,MAYDELL,BGR,1986-01-26,eva.maydell@europarl.europa.eu,https://www.facebook.com/EvaMaydell,https://twitter.com/EvaMaydell
+98582,Loránt,VINCZE,ROU,1977-11-03,lorant.vincze@europarl.europa.eu,https://www.facebook.com/vincze.lorant.2019/,https://twitter.com/vinczelorant
+99283,Alessandro,PANZA,ITA,1982-05-15,alessandro.panza@europarl.europa.eu,https://www.facebook.com/alepanzaoff,https://twitter.com/alepanzaoff
+99461,Alexandra Lesley,PHILLIPS,GBR,1983-12-26,,,
+99945,Lena,DÜPONT,DEU,1986-04-30,lena.duepont@europarl.europa.eu,https://www.facebook.com/lenaduepont.eu/,https://twitter.com/lenaduepontmdep
+101039,Paolo,BORCHIA,ITA,1980-05-27,paolo.borchia@europarl.europa.eu,https://www.facebook.com/PaoloBorchiaofficial/,https://twitter.com/paoloborchia?lang=en
+101585,Niels,FUGLSANG,DNK,1985-06-29,niels.fuglsang@europarl.europa.eu,https://www.facebook.com/FuglsangEP19,https://twitter.com/NielsFuglsang
+103381,Terry,REINTKE,DEU,1987-05-09,terry.reintke@europarl.europa.eu,https://www.facebook.com/terry.reintke,https://twitter.com/TerryReintke
+103746,Michal,ŠIMEČKA,SVK,1984-05-10,,,
+106936,Daniel,FREUND,DEU,1984-10-14,daniel.freund@europarl.europa.eu,https://www.facebook.com/EuropaDaniel/,https://twitter.com/daniel_freund
+107212,Andrey,NOVAKOV,BGR,1988-07-07,andrey.novakov@europarl.europa.eu,https://www.facebook.com/andrey.novakov,https://twitter.com/andreynovakov
+111011,Anthea,McINTYRE,GBR,,,,
+112014,Phil,BENNION,GBR,1954-10-07,,,
+112611,Petri,SARVAMAA,FIN,1960-09-15,petri.sarvamaa@europarl.europa.eu,https://www.facebook.com/sarvamaa.petri,https://twitter.com/petrisarvamaa
+112744,Tonino,PICULA,HRV,1961-08-31,tonino.picula@europarl.europa.eu,https://www.facebook.com/PiculaTonino/,https://twitter.com/TPicula
+112747,Romana,JERKOVIĆ,HRV,1964-11-28,romana.jerkovic@europarl.europa.eu,https://www.facebook.com/JerkovicRomana,https://twitter.com/JerkovicRomana
+112748,Biljana,BORZAN,HRV,1971-11-29,biljana.borzan@europarl.europa.eu,https://www.facebook.com/pages/Biljana-Borzan/478557245556978,https://twitter.com/BiljanaBorzan
+113892,Eric,ANDRIEU,FRA,1960-04-14,,,
+113959,Martina,ANDERSON,GBR,1962-04-16,,,
+114268,Nils,TORVALDS,FIN,1945-08-07,nils.torvalds@europarl.europa.eu,https://www.facebook.com/NILSTORVALDS2018/,https://twitter.com/nilstorvalds
+118859,Roberta,METSOLA,MLT,1979-01-18,roberta.metsola@europarl.europa.eu,https://www.facebook.com/roberta.metsola,https://twitter.com/RobertaMetsola
+118949,Ondřej,KOVAŘÍK,CZE,1980-08-21,ondrej.kovarik@europarl.europa.eu,https://www.facebook.com/OKovarikMEP,https://twitter.com/OKovarikMEP
+119431,Ruža,TOMAŠIĆ,HRV,1958-05-10,,,
+119434,Dubravka,ŠUICA,HRV,1957-05-20,,,
+120478,Martina,MICHELS,DEU,1955-12-01,martina.michels@europarl.europa.eu,https://www.facebook.com/Martina-Michels,https://twitter.com/martina_michels
+122978,Alicia,HOMS GINEL,ESP,1993-10-15,alicia.homs@europarl.europa.eu,,https://twitter.com/aliciahoms
+123562,Charlie,WEIMERS,SWE,1982-11-12,charlie.weimers@europarl.europa.eu,https://www.facebook.com/charlie.weimers,https://twitter.com/weimers
+124586,Balázs,HIDVÉGHI,HUN,1970-11-28,balazs.hidveghi@europarl.europa.eu,https://www.facebook.com/hidveghibalazs/,https://twitter.com/BalazsHidveghi
+124691,Costas,MAVRIDES,CYP,1962-05-27,costas.mavrides@europarl.europa.eu,https://www.facebook.com/costas.mavrides.3,https://twitter.com/MavridesCostas
+124692,Demetris,PAPADAKIS,CYP,1966-08-22,demetris.papadakis@europarl.europa.eu,,
+124693,Pascal,DURAND,FRA,1960-10-03,pascal.durand@europarl.europa.eu,,
+124696,Andrus,ANSIP,EST,1956-10-01,andrus.ansip@europarl.europa.eu,,https://twitter.com/Ansip_EU
+124700,Jana,TOOM,EST,1966-10-15,yana.toom@europarl.europa.eu,https://www.facebook.com/yana.toom,https://twitter.com/yanatoom
+124701,Luděk,NIEDERMAYER,CZE,1966-03-13,ludek.niedermayer@europarl.europa.eu,https://www.facebook.com/Niedermayer.Ludek,https://twitter.com/LudekNie
+124704,Stanislav,POLČÁK,CZE,1980-02-21,stanislav.polcak@europarl.europa.eu,https://www.facebook.com/spolcak,https://twitter.com/stanislavpolcak
+124705,István,UJHELYI,HUN,1975-02-28,istvan.ujhelyi@europarl.europa.eu,https://www.facebook.com/dr.ujhelyi.istvan,https://twitter.com/istvan_ujhelyi
+124708,Dita,CHARANZOVÁ,CZE,,dita.charanzova@europarl.europa.eu,,
+124709,Martina,DLABAJOVÁ,CZE,1976-07-26,martina.dlabajova@europarl.europa.eu,https://www.facebook.com/dlabajova.eu,https://twitter.com/Mdlabajova
+124710,Michaela,ŠOJDROVÁ,CZE,1963-10-28,michaela.sojdrova@europarl.europa.eu,https://www.facebook.com/michaela.sojdrova/,https://twitter.com/msojdrova
+124712,Andrea,BOCSKOR,HUN,1978-08-11,andrea.bocskor@europarl.europa.eu,https://www.facebook.com/BocskorAndreaEP/,https://twitter.com/AndreaBocskor
+124713,Tomáš,ZDECHOVSKÝ,CZE,1979-11-02,tomas.zdechovsky@europarl.europa.eu,https://www.facebook.com/tomaszdechovsky/,https://twitter.com/TomasZdechovsky
+124714,Andor,DELI,HUN,1977-05-02,andor.deli@europarl.europa.eu,https://www.facebook.com/deliandor,https://twitter.com/andordeli
+124715,György,HÖLVÉNYI,HUN,1962-06-13,gyorgy.holvenyi@europarl.europa.eu,https://www.facebook.com/Holvenyi,https://twitter.com/HolvenyiGyorgy
+124722,Csaba,MOLNÁR,HUN,1975-12-04,csaba.molnar@europarl.europa.eu,https://www.facebook.com/drmolnarcsaba,
+124726,Henna,VIRKKUNEN,FIN,1972-06-04,henna.virkkunen@europarl.europa.eu,https://www.facebook.com/virkkunenhenna,https://twitter.com/HennaVirkkunen
+124734,Cláudia,MONTEIRO DE AGUIAR,PRT,1982-04-08,,,
+124735,Miapetra,KUMPULA-NATRI,FIN,1972-05-19,miapetra.kumpula-natri@europarl.europa.eu,https://www.facebook.com/miapetra,https://twitter.com/miapetrakumpula
+124738,Gilles,LEBRETON,FRA,1958-10-11,gilles.lebreton@europarl.europa.eu,https://fr-fr.facebook.com/gilleslebreton.fn/,https://twitter.com/gilles_lebreton?lang=en
+124739,Carlos,ZORRINHO,PRT,1959-05-28,carlos.zorrinho@europarl.europa.eu,https://www.facebook.com/czorrinho,https://twitter.com/czorrinho
+124747,Pedro,SILVA PEREIRA,PRT,1962-08-15,pedro.silvapereira@europarl.europa.eu,,
+124760,Nicolas,BAY,FRA,1977-12-21,nicolas.bay@europarl.europa.eu,https://www.facebook.com/NicolasBayFN/,https://twitter.com/NicolasBay_
+124765,Joëlle,MÉLIN,FRA,1950-03-26,,,
+124766,Petras,AUŠTREVIČIUS,LTU,1963-05-16,petras.austrevicius@europarl.europa.eu,https://www.facebook.com/PetroAustreviciausbiuras,https://twitter.com/petras_petras
+124770,Jean-François,JALKH,FRA,1957-05-23,jean-francois.jalkh@europarl.europa.eu,https://www.facebook.com/jfjalkh/,https://twitter.com/JFJalkh
+124771,Dominique,BILDE,FRA,1953-08-01,dominique.bilde@europarl.europa.eu,https://www.facebook.com/dominiquebilde,https://twitter.com/dominiquebilde
+124777,Tiziana,BEGHIN,ITA,1971-02-04,tiziana.beghin@europarl.europa.eu,https://www.facebook.com/tizianabeghineuropa/,https://twitter.com/beghin_t
+124779,Eleonora,EVI,ITA,1983-11-20,,,
+124780,Marco,ZANNI,ITA,,marco.zanni@europarl.europa.eu,https://www.facebook.com/marcozanniofficial,https://twitter.com/Marcozanni86
+124781,Alfred,SANT,MLT,1948-02-28,alfred.sant@europarl.europa.eu,https://www.facebook.com/alfredsantpage,https://twitter.com/SantAlfred
+124784,Dan,NICA,ROU,1960-07-02,dan.nica@europarl.europa.eu,,
+124785,Maria,GRAPINI,ROU,1954-11-07,maria.grapini@europarl.europa.eu,https://www.facebook.com/MariaGrapini,https://twitter.com/mariagrapini?lang=fr
+124799,Alessandra,MORETTI,ITA,1973-06-24,alessandra.moretti@europarl.europa.eu,https://www.facebook.com/alessandramorettiPD,https://twitter.com/ale_moretti
+124802,Siegfried,MUREŞAN,ROU,1981-09-20,siegfried.muresan@europarl.europa.eu,https://www.facebook.com/SiegfriedMEP,https://twitter.com/SMuresan
+124806,David,McALLISTER,DEU,1971-01-12,david.mcallister@europarl.europa.eu,https://www.facebook.com/david.mcallister,https://twitter.com/davidmcallister
+124807,Jens,GIESEKE,DEU,1971-05-18,jens.gieseke@europarl.europa.eu,https://www.facebook.com/gieseke.europa,
+124808,Norbert,LINS,DEU,1977-12-22,norbert.lins@europarl.europa.eu,https://www.facebook.com/Norbert.Lins.EU,https://twitter.com/linsnorbert/
+124809,Sven,SCHULZE,DEU,1979-07-31,,,
+124812,Fabio Massimo,CASTALDO,ITA,1985-09-18,fabiomassimo.castaldo@europarl.europa.eu,https://www.facebook.com/FabioMassimoCastaldo,https://twitter.com/FMCastaldo
+124814,Simona,BONAFÈ,ITA,1973-07-12,,,
+124818,Klaus,BUCHNER,DEU,1941-02-06,,,
+124821,Nicola,DANTI,ITA,1966-09-06,nicola.danti@europarl.europa.eu,https://www.facebook.com/nicola.danti,https://twitter.com/DantiNicola/
+124822,Dietmar,KÖSTER,DEU,,dietmar.koester@europarl.europa.eu,,
+124828,Fulvio,MARTUSCIELLO,ITA,1968-05-25,fulvio.martusciello@europarl.europa.eu,https://www.facebook.com/MartuscielloFulvio,https://twitter.com/fulviomartuscie
+124831,Isabella,ADINOLFI,ITA,,isabella.adinolfi@europarl.europa.eu,https://m.facebook.com/adinolfiisabella,https://twitter.com/Isa_Adinolfi
+124833,Laura,FERRARA,ITA,1983-09-11,laura.ferrara@europarl.europa.eu,https://www.facebook.com/LauraFerraraM5S/,https://twitter.com/LFerraraM5S
+124834,Martin,SONNEBORN,DEU,1965-05-15,martin.sonneborn@europarl.europa.eu,https://www.facebook.com/Martin-Sonneborn-178442508884215,https://twitter.com/MartinSonneborn
+124835,Rosa,D'AMATO,ITA,1969-03-30,rosa.damato@europarl.europa.eu,https://www.facebook.com/DAmatoRosa/,https://twitter.com/rosadamato634
+124836,Maria,NOICHL,DEU,1967-01-09,maria.noichl@europarl.europa.eu,https://www.facebook.com/noichl.eu,
+124837,Joachim,SCHUSTER,DEU,1962-10-28,joachim.schuster@europarl.europa.eu,,
+124844,Piernicola,PEDICINI,ITA,1969-05-22,piernicola.pedicini@europarl.europa.eu,https://www.facebook.com/piernicola.pedicini.eu/,https://twitter.com/PediciniEu
+124846,Pina,PICIERNO,ITA,1981-05-10,giuseppina.picierno@europarl.europa.eu,https://www.facebook.com/pinapic,https://twitter.com/pinapic
+124850,Emil,RADEV,BGR,1971-05-26,emil.radev@europarl.europa.eu,,https://twitter.com/emil_radev
+124852,Sergei,STANISHEV,BGR,1966-05-05,sergei.stanishev@europarl.europa.eu,https://www.facebook.com/Stanishev.Sergei/ ,https://twitter.com/SergeiStanishev
+124856,Ignazio,CORRAO,ITA,1984-01-14,ignazio.corrao@europarl.europa.eu,https://www.facebook.com/Corraofb/,https://twitter.com/ignaziocorrao
+124861,Caterina,CHINNICI,ITA,1954-11-05,caterina.chinnici@europarl.europa.eu,https://www.facebook.com/CaterinaChinnic/,https://twitter.com/CaterinaChinnic
+124862,Ulrike,MÜLLER,DEU,1962-12-07,ulrike.mueller@europarl.europa.eu,https://www.facebook.com/UlrikeMuellerMdL,https://twitter.com/ulimuellermdep
+124866,Ilhan,KYUCHYUK,BGR,1985-09-16,ilhan.kyuchyuk@europarl.europa.eu,https://www.facebook.com/ilhan.kyuchyuk.eu/,https://twitter.com/ilhankyuchyuk
+124867,Brando,BENIFEI,ITA,1986-01-01,brando.benifei@europarl.europa.eu,https://www.facebook.com/benifeibrando,https://twitter.com/brandobenifei
+124870,Jeppe,KOFOD,DNK,1974-03-14,,,
+124872,Morten,PETERSEN,DNK,1966-09-14,mortenhelveg.petersen@europarl.europa.eu,https://www.facebook.com/morten.h.petersen.75,https://twitter.com/mortenhelveg
+124873,Angel,DZHAMBAZKI,BGR,1979-03-21,angel.dzhambazki@europarl.europa.eu,https://www.facebook.com/angel.djambazki,https://twitter.com/djambazki
+124875,Anders,VISTISEN,DNK,1987-11-12,anders.vistisen@europarl.europa.eu,https://www.facebook.com/AndersVistisenDF,https://twitter.com/andersvistisen
+124877,Jadwiga,WIŚNIEWSKA,POL,,jadwiga.wisniewska@europarl.europa.eu,https://www.facebook.com/jadwiga.wisniewska,https://twitter.com/j_wisniewska
+124884,Kosma,ZŁOTOWSKI,POL,1964-01-14,kosma.zlotowski@europarl.europa.eu,https://www.facebook.com/kosmazlotowski,https://twitter.com/KosmaZlotowski
+124887,Karol,KARSKI,POL,1966-05-13,karol.karski@europarl.europa.eu,,
+124891,Zdzisław,KRASNODĘBSKI,POL,1953-04-11,zdzislaw.krasnodebski-office@europarl.europa.eu,,
+124895,Krzysztof,HETMAN,POL,1974-06-27,,,
+124929,Ivan,ŠTEFANEC,SVK,1961-09-30,ivan.stefanec@europarl.europa.eu,https://www.facebook.com/ivan.stefanec.1,https://twitter.com/IvanStefanec
+124934,Monika,VANA,AUT,,monika.vana@europarl.europa.eu,,
+124936,Maria,ARENA,BEL,1966-12-17,maria.arena@europarl.europa.eu,https://www.facebook.com/Marie-Arena,https://twitter.com/Mariearenaps
+124942,Molly,SCOTT CATO,GBR,1963-05-21,,,
+124952,Seb,DANCE,GBR,1981-12-01,,,
+124953,Jude,KIRTON-DARLING,GBR,,,,
+124961,Theresa,GRIFFIN,GBR,1962-12-11,,,
+124963,Julie,WARD,GBR,1957-03-07,,,
+124965,Nathan,GILL,GBR,1973-07-06,,,
+124970,Miriam,DALLI,MLT,1976-05-19,,,
+124972,Ernest,URTASUN,ESP,1982-01-27,,,
+124973,Gerolf,ANNEMANS,BEL,1958-11-08,gerolf.annemans@europarl.europa.eu,,
+124985,Luke Ming,FLANAGAN,IRL,1972-01-22,lukeming.flanagan@europarl.europa.eu,https://www.facebook.com/Lukemingflanagan,https://twitter.com/lukeming
+124986,Matt,CARTHY,IRL,1977-07-19,,,
+124988,Deirdre,CLUNE,IRL,1959-06-01,deirdre.clune@europarl.europa.eu,https://www.facebook.com/deirdreclunemep,https://twitter.com/deirdreclunemep
+124989,Fredrick,FEDERLEY,SWE,1978-05-06,,,
+124991,Jytte,GUTELAND,SWE,1979-09-16,,,
+124992,Malin,BJÖRK,SWE,1972-05-22,malin.bjork@europarl.europa.eu,,https://twitter.com/MalinBjork_EU
+124996,Peter,LUNDGREN,SWE,1963-02-02,peter.lundgren@europarl.europa.eu,,
+125001,Harald,VILIMSKY,AUT,1966-07-22,harald.vilimsky@europarl.europa.eu,,
+125004,Franc,BOGOVIČ,SVN,1963-02-02,franc.bogovic@europarl.europa.eu,https://www.facebook.com/FrancBogovic.SLS,https://twitter.com/Franc_Bogovic
+125005,Javier,NART,ESP,1947-08-19,javier.nart@europarl.europa.eu,,
+125012,Daniel,BUDA,ROU,1970-01-11,daniel.buda@europarl.europa.eu,https://www.facebook.com/MEPDanielBuda/,https://twitter.com/MEPDanielBuda
+125020,Paul,TANG,NLD,1967-04-23,paul.tang@europarl.europa.eu,https://www.facebook.com/PaulTangPvdA,https://twitter.com/paultang
+125021,Agnes,JONGERIUS,NLD,1960-11-04,agnes.jongerius@europarl.europa.eu,https://www.facebook.com/AgnesJongeriusMEP/,https://twitter.com/a_jongerius
+125023,Anja,HAZEKAMP,NLD,1968-01-21,anja.hazekamp@europarl.europa.eu,https://www.facebook.com/anja.hazekamp,https://twitter.com/anjahazekamp
+125025,Marcel,de GRAAFF,NLD,1962-04-07,marcel.degraaff@europarl.europa.eu,,
+125027,Esteban,GONZÁLEZ PONS,ESP,1964-08-21,,,
+125030,Annie,SCHREIJER-PIERIK,NLD,1953-02-17,annie.schreijer-pierik@europarl.europa.eu,https://www.facebook.com/annieschreijer/,https://twitter.com/annieschreijer
+125038,Maite,PAGAZAURTUNDÚA,ESP,1965-02-11,maite.pagaza@europarl.europa.eu,,https://twitter.com/maitepagaza
+125042,Javi,LÓPEZ,ESP,1985-11-11,javi.lopez@europarl.europa.eu,https://www.facebook.com/javi.lopez.fer,https://twitter.com/javilopezEU
+125043,Inma,RODRÍGUEZ-PIÑERO,ESP,1958-01-07,inma.rodriguezpinero@europarl.europa.eu,https://www.facebook.com/inmaculadarodriguezpinero,https://twitter.com/RodriguezPinero
+125045,Clara,AGUILERA,ESP,1964-01-03,claraeugenia.aguileragarcia@europarl.europa.eu,https://www.facebook.com/profile.php?id=100001665941538,https://twitter.com/ClaraAguilera7
+125046,Jonás,FERNÁNDEZ,ESP,1979-01-08,jonas.fernandezalvarez@europarl.europa.eu,,https://twitter.com/jonasfernandez
+125063,Georgios,KYRTSOS,GRC,1952-06-04,georgios.kyrtsos@europarl.europa.eu,https://www.facebook.com/giorgoskyrtsos,https://twitter.com/GiorgosKyrtsos
+125064,Maria,SPYRAKI,GRC,1965-09-11,maria.spyraki@europarl.europa.eu,https://www.facebook.com/MSpyraki/,https://twitter.com/MariaSpyraki
+125065,Elissavet,VOZEMBERG-VRIONIDI,GRC,1956-09-14,elissavet.vozemberg@europarl.europa.eu,https://www.facebook.com/vozemberg,https://twitter.com/vozemberg
+125067,Theodoros,ZAGORAKIS,GRC,1971-10-27,theodoros.zagorakis@europarl.europa.eu,https://www.facebook.com/th.zagorakis,
+125068,Manolis,KEFALOGIANNIS,GRC,,manolis.kefalogiannis@europarl.europa.eu,https://www.facebook.com/Kefalogiannis.Man/,https://twitter.com/M_Kefalogiannis
+125093,Kostas,PAPADAKIS,GRC,1975-04-18,kostas.papadakis@europarl.europa.eu,,
+125104,Romana,TOMC,SVN,1965-11-02,romana.tomc@europarl.europa.eu,https://www.facebook.com/romana.tomc,https://twitter.com/RomanaTomc
+125106,Johan,VAN OVERTVELDT,BEL,1955-08-24,johan.vanovertveldt@europarl.europa.eu,,
+125109,Eva,KAILI,GRC,,eva.kaili@europarl.europa.eu,https://www.facebook.com/Kaili.Eva,https://twitter.com/EvaKaili
+125110,Nikos,ANDROULAKIS,GRC,1979-02-07,,,
+125128,Iskra,MIHAYLOVA,BGR,1957-09-07,iskra.mihaylova@europarl.europa.eu,,
+125214,Bronis,ROPĖ,LTU,1955-04-14,bronis.rope@europarl.europa.eu,https://www.facebook.com/rope.bronis,
+125237,Marco,ZULLO,ITA,1978-10-29,marco.zullo@europarl.europa.eu,,
+125670,Massimiliano,SALINI,ITA,1973-03-11,massimiliano.salini@europarl.europa.eu,https://www.facebook.com/massimilianosalini.it,https://twitter.com/MaxSalini
+125706,Jiří,POSPÍŠIL,CZE,1975-11-24,jiri.pospisil@europarl.europa.eu,https://www.facebook.com/judr.jiri.pospisil,https://twitter.com/Pospisil_Jiri
+126644,Jordi,CAÑAS,ESP,1969-12-12,jordi.canas@europarl.europa.eu,https://www.facebook.com/jordi.canas,https://twitter.com/jordi_canyas
+127096,Domènec,RUIZ DEVESA,ESP,1978-03-03,Domenec.RuizDevesa@europarl.europa.eu,,https://twitter.com/domenecd?lang=de
+128483,Markus,BUCHHEIT,DEU,1983-08-11,markus.buchheit@europarl.europa.eu,,
+129073,Urmas,PAET,EST,1974-04-20,urmas.paet@europarl.europa.eu,https://www.facebook.com/urmaspaet1/,https://twitter.com/urmaspaet
+129141,Frans,TIMMERMANS,NLD,1961-05-06,,,
+129164,Tom,VANDENKENDELAERE,BEL,1984-09-02,tom.vandenkendelaere@europarl.europa.eu,https://www.facebook.com/tomvdkendelaere/,https://twitter.com/tomvdkendelaere
+130100,Hilde,VAUTMANS,BEL,1972-05-02,hilde.vautmans@europarl.europa.eu,https://www.facebook.com/HVautmans/?ref=br_rs,https://twitter.com/hildevautmans
+130256,Dace,MELBĀRDE,LVA,1971-04-03,dace.melbarde@europarl.europa.eu,https://www.facebook.com/DaceMelbardeEU,
+130833,Stelios,KOULOGLOU,GRC,1953-02-27,stelios.kouloglou@europarl.europa.eu,https://www.facebook.com/stelioskouloglou,https://twitter.com/SteliosKoul
+131507,Miguel,URBÁN CRESPO,ESP,1980-03-26,miguel.urbancrespo@europarl.europa.eu,https://www.facebook.com/miguel.urban.79,https://twitter.com/MiguelUrban
+131580,Jordan,BARDELLA,FRA,1995-09-13,jordan.bardella@europarl.europa.eu,https://www.facebook.com/JordanBardella/,https://twitter.com/J_Bardella
+132191,Gunnar,BECK,DEU,,gunnar.beck@europarl.europa.eu,https://www.facebook.com/drgunnarbeck,www.twitter.com/gunnar_beck
+132366,Pirkko,RUOHONEN-LERNER,FIN,1957-02-06,pirkko.ruohonen-lerner@europarl.europa.eu,,
+134605,Ramona,STRUGARIU,ROU,1979-08-06,ramona.strugariu@europarl.europa.eu,https://www.facebook.com/RamonaVictoriaStrugariu/,https://twitter.com/RamonaStrugariu
+135511,Valérie,HAYER,FRA,1986-04-06,valerie.hayer@europarl.europa.eu,,https://twitter.com/valeriehayer
+136236,João,PIMENTA LOPES,PRT,1980-04-12,Joao.pimentalopes@europarl.europa.eu,,
+182995,Annika,BRUNA,FRA,1956-11-26,annika.bruna@europarl.europa.eu,https://www.facebook.com/annikabrunaUE,https://twitter.com/annikabrunaue
+183338,Jakop G.,DALUNDE,SWE,1984-02-02,jakop.dalunde@europarl.europa.eu ,https://www.facebook.com/jakopdalundeMEP/,https://twitter.com/jakopdalunde?
+183793,Angelo,CIOCCA,ITA,1975-06-28,angelo.ciocca@europarl.europa.eu,,
+183916,Alexandra,GEESE,DEU,1968-07-01,alexandra.geese@europarl.europa.eu,https://www.facebook.com/alexandrageese/,https://twitter.com/alexandrageese
+185341,Željana,ZOVKO,HRV,,zeljana.zovko@europarl.europa.eu,https://www.facebook.com/zeljanazovko.eu,https://twitter.com/ZovkoEU
+185619,Tiemo,WÖLKEN,DEU,1985-12-05,tiemo.woelken@europarl.europa.eu,https://www.facebook.com/twoelken,https://twitter.com/woelken
+185771,Tom,VANDENDRIESSCHE,BEL,1978-10-27,tom.vandendriessche@europarl.europa.eu,,
+185974,Jordi,SOLÉ,ESP,1976-10-26,jordi.sole@europarl.europa.eu,,https://twitter.com/jordisolef
+187917,Marc,BOTENGA,BEL,1980-12-29,marc.botenga@europarl.europa.eu,https://www.facebook.com/botengam,https://www.twitter.com/botengam
+188636,John,HOWARTH,GBR,,,,
+188733,Jonathan,BULLOCK,GBR,1963-03-03,,,
+188945,Dennis,RADTKE,DEU,1979-04-29,dennis.radtke@europarl.europa.eu,https://www.facebook.com/DennisRadtkeMdEP/,https://twitter.com/RadtkeMdEP
+189065,France,JAMET,FRA,1961-02-05,france.jamet@europarl.europa.eu,https://www.facebook.com/JametFrance/,https://twitter.com/francejamet
+189391,Baroness Nosheena,MOBARIK,GBR,1957-10-16,,,
+189525,Asim,ADEMOV,BGR,1968-12-03,asim.ademov@europarl.europa.eu,https://www.facebook.com/AdemovAsim/,https://twitter.com/AdemovAsim
+190099,Rory,PALMER,GBR,,,,
+190464,Thomas,WAITZ,AUT,1973-05-16,thomas.waitz@europarl.europa.eu,https://www.facebook.com/thomas.waitz.europa/,https://twitter.com/thomaswaitz
+190517,Martin,SCHIRDEWAN,DEU,1975-07-12,martin.schirdewan@europarl.europa.eu,,
+190518,Jörg,MEUTHEN,DEU,,joerg.meuthen@europarl.europa.eu,,
+190519,Caroline,NAGTEGAAL,NLD,1980-06-01,caroline.nagtegaal@europarl.europa.eu,https://www.facebook.com/caroline.vandoorn.7,https://twitter.com/c_nagtegaal?lang=en
+190713,Lukas,MANDL,AUT,1979-07-12,lukas.mandl@europarl.europa.eu,https://www.facebook.com/lukasmandl.eu,https://twitter.com/lukasmandl
+190774,Geoffroy,DIDIER,FRA,1976-04-12,geoffroy.didier@europarl.europa.eu,https://www.facebook.com/geoffroydidier/,https://twitter.com/geoffroydidier
+191693,Elsi,KATAINEN,FIN,1966-12-17,elsi.katainen@europarl.europa.eu,https://www.facebook.com/ekatainen,https://www.twitter.com/elsikatainen
+192634,Giuseppe,FERRANDINO,ITA,1963-03-21,giuseppe.ferrandino@europarl.europa.eu,https://www.facebook.com/giosiferrandino,https://twitter.com/giosiferrandino
+192635,Danilo Oscar,LANCINI,ITA,1965-10-15,danilooscar.lancini@europarl.europa.eu,https://www.facebook.com/DOscarLancini/,https://twitter.com/doscarlancini
+193273,Romeo,FRANZ,DEU,1966-10-28,romeo.franz@europarl.europa.eu,https://www.facebook.com/RomeoFranz,https://twitter.com/romeofranz1
+193292,Tilly,METZ,LUX,1967-05-26,tilly.metz@europarl.europa.eu,https://www.facebook.com/TillyMetzMEP/,https://twitter.com/MetzTilly
+193419,Christophe,HANSEN,LUX,1982-02-21,,,
+197390,Sara,SKYTTEDAL,SWE,1986-08-06,sara.skyttedal@europarl.europa.eu,https://www.facebook.com/skyttedal,https://twitter.com/skyttedal
+197391,Heléne,FRITZON,SWE,1960-09-29,helene.fritzon@europarl.europa.eu,,
+197392,Evin,INCIR,SWE,1984-06-15,evin.incir@europarl.europa.eu,,
+197393,David,LEGA,SWE,1973-10-12,david.lega@europarl.europa.eu,https://www.facebook.com/DavidLegaKD/,https://twitter.com/davidlega
+197394,Josianne,CUTAJAR,MLT,1989-12-27,josianne.cutajar@europarl.europa.eu,,https://twitter.com/josiannecutajar
+197395,Alice,KUHNKE,SWE,1971-12-21,alice.kuhnke@europarl.europa.eu,,
+197396,Erik,BERGKVIST,SWE,1965-05-01,,,
+197398,Pär,HOLMGREN,SWE,1964-10-24,par.holmgren@europarl.europa.eu,https://www.facebook.com/parholmgrenmp,https://twitter.com/parholmgren
+197399,Jessica,STEGRUD,SWE,1970-09-27,,,
+197400,Abir,AL-SAHLANI,SWE,1976-05-18,abir.alsahlani@europarl.europa.eu,https://www.facebook.com/abirtillbryssel/,https://twitter.com/abiralsahlani
+197401,Karin,KARLSBRO,SWE,1970-09-23,karin.karlsbro@europarl.europa.eu,https://www.facebook.com/karlsbroliberal/,https://twitter.com/KarinKarlsbro
+197402,Tomas,TOBÉ,SWE,1978-02-16,tomas.tobe@europarl.europa.eu,https://www.facebook.com/TomasGTobe,https://twitter.com/tomastobe
+197403,Alex,AGIUS SALIBA,MLT,1988-01-31,alex.agiussaliba@europarl.europa.eu,https://www.facebook.com/alexagiussaliba,
+197404,Jessica,POLFJÄRD,SWE,1971-05-27,jessica.polfjard@europarl.europa.eu,,https://twitter.com/jessicapolfjard
+197405,Jörgen,WARBORN,SWE,1969-01-23,jorgen.warborn@europarl.europa.eu,https://facebook.com/jorgenwarborn,https://twitter.com/jorgenwarborn
+197406,Arba,KOKALARI,SWE,1986-11-27,arba.kokalari@europarl.europa.eu,https://www.facebook.com/ArbaKokalari/,https://twitter.com/arbakokalari
+197408,Hildegard,BENTELE,DEU,1976-05-22,hildegard.bentele@europarl.europa.eu,https://www.facebook.com/hildegard.bentele.cdu/,https://twitter.com/hildebentele
+197410,Stefan,BERGER,DEU,1969-09-15,stefan.berger@europarl.europa.eu,https://www.facebook.com/StefanBergerEU/,https://twitter.com/DrStefanBerger
+197412,Niclas,HERBST,DEU,1973-02-28,niclas.herbst@europarl.europa.eu,https://www.facebook.com/niclas.herbst.eu,
+197413,Karlo,RESSLER,HRV,,karlo.ressler@europarl.europa.eu,https://www.facebook.com/resslerkarlo/,https://twitter.com/KarloRessler
+197414,Loucas,FOURLAS,CYP,1969-08-21,loucas.fourlas@europarl.europa.eu,https://www.facebook.com/fourlasloucas/,https://twitter.com/loucas_fourlas
+197415,Niyazi,KIZILYÜREK,CYP,1959-12-07,niyazi.kizilyurek@europarl.europa.eu,,
+197416,Giorgos,GEORGIOU,CYP,1963-04-09,giorgos.georgiou@europarl.europa.eu,,
+197417,Tomislav,SOKOL,HRV,1982-09-20,tomislav.sokol@europarl.europa.eu,https://www.facebook.com/TomislavSokol/,https://twitter.com/TomislavSokol
+197418,Monica,SEMEDO,LUX,1984-06-15,monica.semedo@europarl.europa.eu,https://www.facebook.com/monica.semedo.3,https://twitter.com/MonicaSemedoLux
+197419,Valter,FLEGO,HRV,1972-08-15,Valter.Flego@europarl.europa.eu,,
+197420,Kris,PEETERS,BEL,1962-05-18,,,
+197421,Isabel,WISELER-LIMA,LUX,1961-12-29,isabel.wiseler@europarl.europa.eu,https://www.facebook.com/isabel.wiseler.lima/,https://twitter.com/iwiseler
+197422,Christine,SCHNEIDER,DEU,1972-06-05,christine.schneider@europarl.europa.eu,https://www.facebook.com/christine.schneider.mdep,
+197423,Nico,SEMSROTT,DEU,1986-03-11,nico.semsrott@europarl.europa.eu,https://www.facebook.com/nicosemsrott,https://www.twitter.com/nicosemsrott
+197425,Ralf,SEEKATZ,DEU,1972-11-10,ralf.seekatz@europarl.europa.eu,https://www.facebook.com/ralf.seekatz,
+197426,Sven,SIMON,DEU,1978-10-09,sven.simon@europarl.europa.eu,https://www.facebook.com/simonMEP,https://twitter.com/svensimon
+197427,Marlene,MORTLER,DEU,1955-10-16,marlene.mortler@europarl.europa.eu,,
+197428,Nicolas,SCHMIT,LUX,1953-12-10,,,
+197429,Marion,WALSMANN,DEU,1963-03-17,marionerika.walsmann@europarl.europa.eu,https://www.facebook.com/team.walsmann/,https://twitter.com/marionwalsmann
+197430,Engin,EROGLU,DEU,,engin.eroglu@europarl.europa.eu,https://www.facebook.com/EnginEroglu.FREIEWAEHLER/,https://twitter.com/engineroglu_fw
+197431,Patrick,BREYER,DEU,,patrick.breyer@europarl.europa.eu,,https://twitter.com/echo_pbreyer
+197432,Jan-Christoph,OETJEN,DEU,1978-02-21,jan-christoph.oetjen@europarl.europa.eu,https://www.facebook.com/Oetjen.Jan.Christoph/,https://twitter.com/jcoetjen
+197433,Katarina,BARLEY,DEU,1968-11-19,katarina.barley@europarl.europa.eu,https://www.facebook.com/katarina.barley/,https://twitter.com/KATARINABARLEY
+197434,Martin,BUSCHMANN,DEU,,martin.buschmann@europarl.europa.eu,https://www.facebook.com/Tierschutzabgeordneter/,https://twitter.com/buschmannmartin
+197435,Gabriele,BISCHOFF,DEU,1961-01-04,gabriele.bischoff@europarl.europa.eu,,
+197436,Helmut,GEUKING,DEU,1964-01-16,,,
+197437,Nicola,BEER,DEU,1970-01-23,,,
+197438,Mislav,KOLAKUŠIĆ,HRV,1969-09-15,mislav.kolakusic@europarl.europa.eu,,
+197439,Damian,BOESELAGER,DEU,1988-03-08,damian.boeselager@europarl.europa.eu,https://www.facebook.com/damina.boeselager,https://twitter.com/d_boeselager
+197440,Delara,BURKHARDT,DEU,1992-11-03,delara.burkhardt@europarl.europa.eu,https://www.facebook.com/delarabur,https://twitter.com/delarabur
+197441,Predrag Fred,MATIĆ,HRV,1962-06-02,fred.matic@europarl.europa.eu,https://www.facebook.com/predragmaticfred/,https://twitter.com/fred_matic
+197443,Andreas,GLÜCK,DEU,1975-03-08,andreas.glueck@europarl.europa.eu,https://www.facebook.com/glueck.fuer.europa,https://twitter.com/andi_glueck
+197444,Svenja,HAHN,DEU,1989-07-25,svenja.hahn@europarl.europa.eu,https://www.facebook.com/svenjahahnfdp/,https://twitter.com/svenja_hahn
+197445,Moritz,KÖRNER,DEU,1990-08-03,moritz.koerner@europarl.europa.eu,https://www.facebook.com/moritzkoernerfdp,https://twitter.com/moritzkoerner
+197446,Milan,BRGLEZ,SVN,1967-09-01,milan.brglez@europarl.europa.eu,https://www.facebook.com/milan.brglez,
+197447,Irena,JOVEVA,SVN,1989-02-26,irena.joveva@europarl.europa.eu,https://www.facebook.com/ijoveva/,https://twitter.com/ijoveva
+197448,Rasmus,ANDRESEN,DEU,1986-02-20,rasmus.andresen@europarl.europa.eu,https://www.facebook.com/AndresenRasmus/,https://twitter.com/RasmusAndresen
+197449,Michael,BLOSS,DEU,1986-11-06,michael.bloss@europarl.europa.eu,https://www.facebook.com/michabloss,https://twitter.com/micha_bloss
+197451,Viola,VON CRAMON-TAUBADEL,DEU,1970-03-23,viola.voncramon@europarl.europa.eu,https://www.facebook.com/viola.voncramon,https://twitter.com/violavoncramon?lang=en
+197452,Klemen,GROŠELJ,SVN,1976-03-08,klemen.groselj@europarl.europa.eu,,
+197453,Anna,DEPARNAY-GRUNENBERG,DEU,1976-06-05,anna.deparnay-grunenberg@europarl.europa.eu,,
+197455,Cindy,FRANSSEN,BEL,1976-01-30,cindy.franssen@europarl.europa.eu,https://www.facebook.com/CindyFranssen76/,https://twitter.com/franssencindy
+197457,Henrike,HAHN,DEU,1970-09-04,henrike.hahn@europarl.europa.eu,https://www.facebook.com/henrike.hahn.16,https://twitter.com/henrikehahn?lang=en
+197458,Benoît,LUTGEN,BEL,1970-03-10,benoit.lutgen@europarl.europa.eu,,https://twitter.com/BenoitLutgen
+197459,Pierrette,HERZBERGER-FOFANA,DEU,,pierrette.herzberger-fofana@europarl.europa.eu,https://www.facebook.com/pierrette.herzbergerfofana,
+197460,Sergey,LAGODINSKY,DEU,1975-12-01,sergey.lagodinsky@europarl.europa.eu,https://www.facebook.com/slagodinsky/,https://twitter.com/slagodinsky
+197461,Katrin,LANGENSIEPEN,DEU,1979-10-10,katrin.langensiepen@europarl.europa.eu,https://www.facebook.com/KLangensiepen/,https://twitter.com/k_langensiepen
+197462,Erik,MARQUARDT,DEU,1987-10-20,erik.marquardt@europarl.europa.eu,https://www.facebook.com/ErikMarquardtde/,https://twitter.com/erikmarquardt
+197463,Olivier,CHASTEL,BEL,1964-11-22,olivier.chastel@europarl.europa.eu,https://www.facebook.com/OlivierChastel/,
+197464,Hannah,NEUMANN,DEU,1984-04-03,hannah.neumann@europarl.europa.eu,https://www.facebook.com/HNeumannMEP/,https://twitter.com/HNeumannMEP
+197465,Niklas,NIENASS,DEU,1992-04-14,niklas.nienass@europarl.europa.eu,,https://twitter.com/nnienass
+197466,Jutta,PAULUS,DEU,1967-05-09,jutta.paulus@europarl.europa.eu,https://www.facebook.com/JuttaPaulusRLP/,https://twitter.com/juttapaulusrlp
+197467,Geert,BOURGEOIS,BEL,1951-07-06,geert.bourgeois@europarl.europa.eu,,
+197468,Özlem,DEMIREL,DEU,1984-03-10,oezlem.demirel@europarl.europa.eu,https://www.facebook.com/oezlemalevdemirel,https://twitter.com/oezlemademirel
+197469,Assita,KANKO,BEL,1980-07-14,assita.kanko@europarl.europa.eu,https://www.facebook.com/KankoAssita,https://twitter.com/assita_kanko
+197470,Saskia,BRICMONT,BEL,1985-03-16,saskia.bricmont@europarl.europa.eu,https://www.facebook.com/bricmontsaskia,https://twitter.com/bricmontsaskia
+197471,Petra,DE SUTTER,BEL,1963-06-10,,,
+197472,Filip,DE MAN,BEL,,filip.deman@europarl.europa.eu,,
+197473,Christian,DOLESCHAL,DEU,1988-04-27,christian.doleschal@europarl.europa.eu,https://www.facebook.com/doleschalchristian/,https://twitter.com/doleschal
+197475,Christine,ANDERSON,DEU,,christine.anderson@europarl.europa.eu,https://www.facebook.com/Christine.Anderson.AfD/,https://twitter.com/andersonafdmdep
+197478,Lars Patrick,BERG,DEU,1966-01-22,larspatrick.berg@europarl.europa.eu,https://www.facebook.com/larspatrickberg/,https://twitter.com/L_P_Berg
+197480,Nicolaus,FEST,DEU,1962-07-01,nicolaus.fest@europarl.europa.eu,,
+197481,Maximilian,KRAH,DEU,1977-01-28,maximilian.krah@europarl.europa.eu,https://www.facebook.com/maximilian.krah,https://twitter.com/krahmax
+197482,Joachim,KUHS,DEU,1956-06-25,joachim.kuhs@europarl.europa.eu,https://www.facebook.com/joachimkuhs/,https://twitter.com/joachim_kuhs
+197483,Sylvia,LIMMER,DEU,1966-02-08,sylvia.limmer@europarl.europa.eu,,
+197488,Guido,REIL,DEU,1970-01-19,guido.reil@europarl.europa.eu,https://www.facebook.com/guidoreil.de/,
+197489,Bernhard,ZIMNIOK,DEU,1953-06-21,bernhard.zimniok@europarl.europa.eu,,
+197490,Magdalena,ADAMOWICZ,POL,,magdalena.adamowicz@europarl.europa.eu,https://www.facebook.com/adamowicz.magdalena,https://twitter.com/Adamowicz_Magda
+197491,Marina,KALJURAND,EST,,marina.kaljurand@europarl.europa.eu,,
+197492,Bartosz,ARŁUKOWICZ,POL,1971-12-30,,,
+197493,Jaak,MADISON,EST,1991-04-22,jaak.madison@europarl.europa.eu,https://www.facebook.com/madisonjaak/,https://twitter.com/jaakmadison
+197494,Nathalie,LOISEAU,FRA,1964-06-01,Nathalie.Loiseau@europarl.europa.eu,,
+197495,Marek Paweł,BALT,POL,1973-04-08,marekpawel.balt@europarl.europa.eu,https://www.facebook.com/baltmarek,https://twitter.com/poselbalt
+197496,Marek,BELKA,POL,1952-01-09,marek.belka@europarl.europa.eu,,
+197497,Sven,MIKSER,EST,1973-11-08,sven.mikser@europarl.europa.eu,,
+197498,Robert,BIEDROŃ,POL,,robert.biedron@europarl.europa.eu,https://www.facebook.com/RobertBiedron/,https://twitter.com/robertbiedron
+197499,Chrysoula,ZACHAROPOULOU,FRA,1976-05-07,,,
+197500,Mounir,SATOURI,FRA,1975-05-25,mounir.satouri@europarl.europa.eu,https://www.facebook.com/mounir.satouri,https://twitter.com/mounirsatouri
+197501,Joachim Stanisław,BRUDZIŃSKI,POL,1968-02-04,joachim.brudzinski@europarl.europa.eu,https://www.facebook.com/JoachimBrudzinski,https://twitter.com/jbrudzinski
+197502,Marie-Pierre,VEDRENNE,FRA,1982-12-13,marie-pierre.vedrenne@europarl.europa.eu,https://www.facebook.com/MariePierre.Vedrenne,https://twitter.com/mariepierrev
+197503,David,CORMAND,FRA,1974-11-30,david.cormand@europarl.europa.eu,https://www.facebook.com/david.cormand,https://twitter.com/DavidCormand
+197504,Jérémy,DECERLE,FRA,1984-07-01,jeremy.decerle@europarl.europa.eu,,https://twitter.com/JDecerle
+197505,Catherine,CHABAUD,FRA,1962-11-29,catherine.chabaud@europarl.europa.eu,https://www.facebook.com/catherine.chabaud,https://twitter.com/CathChabaud
+197506,Caroline,ROOSE,FRA,1968-11-10,caroline.roose@europarl.europa.eu,https://www.facebook.com/CarolineRooseEU/,https://twitter.com/CarolineRooseEU
+197507,Włodzimierz,CIMOSZEWICZ,POL,1950-09-13,wlodzimierz.cimoszewicz@europarl.europa.eu,https://www.facebook.com/wlodzimierz.cimoszewicz.9,
+197508,Stéphane,SÉJOURNÉ,FRA,1985-03-26,,,
+197510,Jarosław,DUDA,POL,1964-04-29,jaroslaw.duda@europarl.europa.eu,https://www.facebook.com/people/Jarosław-Duda/100001993695921,https://twitter.com/jaroslawduda
+197511,Salima,YENBOU,FRA,1971-03-14,salima.yenbou@europarl.europa.eu,https://www.facebook.com/YenbouSalima,https://twitter.com/salima_yenbou
+197512,Benoît,BITEAU,FRA,1967-04-07,benoit.biteau@europarl.europa.eu,https://fr-fr.facebook.com/benoit.biteau.9,https://twitter.com/benoitbiteau
+197513,Tomasz,FRANKOWSKI,POL,1974-08-16,tomasz.frankowski@europarl.europa.eu,https://www.facebook.com/tfrankowski21/,https://twitter.com/TFrankowski21
+197514,Andrzej,HALICKI,POL,1961-11-26,andrzej.halicki@europarl.europa.eu,https://www.facebook.com/halickipl/,https://twitter.com/AndrzejHalicki
+197515,Pernille,WEISS,DNK,1968-03-12,pernille.weiss@europarl.europa.eu,https://www.facebook.com/pernilleweiss/,https://twitter.com/WeissPernille
+197516,Patryk,JAKI,POL,1985-05-11,patryktomasz.jaki@europarl.europa.eu,,
+197517,Adam,JARUBAS,POL,1974-12-17,adam.jarubas@europarl.europa.eu,https://www.facebook.com/JarubasAdam/,https://twitter.com/JarubasAdam
+197518,Krzysztof,JURGIEL,POL,1953-11-18,krzysztof.jurgiel@europarl.europa.eu,https://www.facebook.com/krzysztof.jurgiel,
+197519,Beata,KEMPA,POL,1966-02-11,beata.kempa@europarl.europa.eu,https://www.facebook.com/beatakempapl,https://twitter.com/BeataKempa_MEP
+197520,Izabela-Helena,KLOC,POL,1963-05-08,izabela.kloc@europarl.europa.eu,https://www.facebook.com/izabela.kloc,https://twitter.com/IzabelaKloc
+197521,Manuel,BOMPARD,FRA,1986-03-30,,,
+197522,Radka,MAXOVÁ,CZE,1968-12-02,radka.maxova@europarl.europa.eu,,
+197523,Łukasz,KOHUT,POL,1982-09-10,lukasz.kohut@europarl.europa.eu,https://facebook.com/KohutLukaszMarcin/,https://twitter.com/lukaszkohut
+197525,Ewa,KOPACZ,POL,1956-12-03,ewa.kopacz@europarl.europa.eu,https://www.facebook.com/KopaczEwa/,https://twitter.com/ewakopacz
+197526,Martin,HLAVÁČEK,CZE,,martin.hlavacek@europarl.europa.eu,,
+197527,Anne-Sophie,PELLETIER,FRA,1976-02-05,anne-sophie.pelletier@europarl.europa.eu,,
+197528,Ondřej,KNOTEK,CZE,1984-08-31,,https://www.facebook.com/knotekondra/,https://twitter.com/KnotekOndrej?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+197529,Leila,CHAIBI,FRA,1982-10-05,leila.chaibi@europarl.europa.eu,,https://twitter.com/leilachaibi
+197530,Joanna,KOPCIŃSKA,POL,1967-01-02,joannamaria.kopcinska@europarl.europa.eu,,
+197531,Gwendoline,DELBOS-CORFIELD,FRA,1977-03-08,gwendoline.delbos-corfield@europarl.europa.eu,https://www.facebook.com/GDelbosCorfieldEU,https://twitter.com/gdelboscorfield
+197532,Elżbieta,KRUK,POL,1959-11-19,elzbieta.kruk@europarl.europa.eu,https://www.facebook.com/kruk.elzbieta/,
+197533,Manon,AUBRY,FRA,1989-12-22,manon.aubry@europarl.europa.eu,https://www.facebook.com/ManonAubryFR,https://twitter.com/manonaubryfr
+197534,François-Xavier,BELLAMY,FRA,1985-10-11,francois-xavier.bellamy@europarl.europa.eu,https://www.facebook.com/fx.bellamy/,https://twitter.com/fxbellamy
+197535,Agnès,EVREN,FRA,1970-12-27,,,
+197536,Nathalie,COLIN-OESTERLÉ,FRA,1965-05-05,nathalie.colin-oesterle@europarl.europa.eu,https://www.facebook.com/Nathalie-Colin-Oesterlé-128918249901/,https://twitter.com/ncolin_oesterle
+197537,Alexandr,VONDRA,CZE,1961-08-17,alexandr.vondra@europarl.europa.eu,https://www.facebook.com/a.vondra/,https://twitter.com/alexandrvondra?lang=en
+197538,Beata,MAZUREK,POL,,beata.mazurek@europarl.europa.eu,,
+197539,Mikuláš,PEKSA,CZE,1986-06-18,mikulas.peksa@europarl.europa.eu,https://www.facebook.com/peksamikulas/,https://twitter.com/vonpecka
+197540,Leszek,MILLER,POL,1946-07-03,leszek.miller@europarl.europa.eu,https://www.facebook.com/MillerLeszek/,https://twitter.com/LeszekMiller/status/456143806295855104
+197541,Andżelika Anna,MOŻDŻANOWSKA,POL,1975-03-20,andzelikaanna.mozdzanowska@europarl.europa.eu,https://www.facebook.com/andzelika.mozdzanowska.5,
+197542,Janina,OCHOJSKA,POL,1955-03-12,janina.ochojska@europarl.europa.eu,https://www.facebook.com/janka.ochojska,https://twitter.com/JaninaOchojska
+197543,Bernard,GUETTA,FRA,,bernard.guetta@europarl.europa.eu,,https://twitter.com/guetta_en
+197544,Elżbieta,RAFALSKA,POL,1955-06-22,elzbieta.rafalska@europarl.europa.eu,https://www.facebook.com/elzbieta.rafalska,https://twitter.com/e_rafalska
+197545,Bogdan,RZOŃCA,POL,1961-02-01,bogdan.rzonca@europarl.europa.eu,https://www.facebook.com/BogdanRzonca,https://twitter.com/bogdan_rzonca
+197546,Marcel,KOLAJA,CZE,1980-06-29,marcel.kolaja@europarl.europa.eu,https://www.facebook.com/PiratKolaja/,https://twitter.com/piratkolaja?lang=en
+197547,Irène,TOLLERET,FRA,,irene.tolleret@europarl.europa.eu,,
+197548,Radosław,SIKORSKI,POL,1963-02-23,,,
+197549,Markéta,GREGOROVÁ,CZE,1993-01-14,marketa.gregorova@europarl.europa.eu,https://www.facebook.com/MEPGregorova,http://twitter.com/MarketkaG
+197550,Sylwia,SPUREK,POL,1976-01-29,sylwia.spurek@europarl.europa.eu,https://www.facebook.com/drSylwiaSpurek/,https://twitter.com/sylwiaspurek
+197551,Stéphane,BIJOUX,FRA,1970-10-08,stephane.bijoux@europarl.europa.eu,https://www.facebook.com/BijouxStephane,https://twitter.com/StephaneBIJOUX
+197552,Veronika,VRECIONOVÁ,CZE,1965-09-08,veronika.vrecionova@europarl.europa.eu,https://www.facebook.com/vrecionova,https://twitter.com/vrecionova?lang=en
+197553,Beata,SZYDŁO,POL,1963-04-15,beata.szydlo@europarl.europa.eu,https://facebook.com/BeataSzydlo,https://twitter.com/BeataSzydlo
+197554,Luis,GARICANO,ESP,,,,
+197555,Søren,GADE,DNK,1963-01-27,,,
+197556,Ivan,DAVID,CZE,1952-09-24,ivan.david@europarl.europa.eu,,
+197557,Christophe,GRUDLER,FRA,1965-04-09,christophe.grudler@europarl.europa.eu,https://www.facebook.com/GrudlerCh/,https://twitter.com/grudlerch
+197558,Asger,CHRISTENSEN,DNK,,asger.christensen@europarl.europa.eu,,
+197559,Grzegorz,TOBISZOWSKI,POL,1965-11-01,grzegorz.tobiszowski@europarl.europa.eu,,
+197563,Mauri,PEKKARINEN,FIN,1947-10-06,mauri.pekkarinen@europarl.europa.eu,,
+197564,Hynek,BLAŠKO,CZE,1955-07-15,hynek.blasko@europarl.europa.eu,https://www.facebook.com/stranaprav/posts/10155066925053207,
+197566,Witold Jan,WASZCZYKOWSKI,POL,1957-05-05,witoldjan.waszczykowski@europarl.europa.eu,https://www.facebook.com/WitoldWaszczykowski,https://twitter.com/WaszczykowskiW
+197567,Karen,MELCHIOR,DNK,1980-10-15,karen.melchior@europarl.europa.eu,https://www.facebook.com/KarenMelchiorDK/,https://twitter.com/karmel80
+197570,Peter,KOFOD,DNK,1990-02-27,,,
+197571,Nikolaj,VILLUMSEN,DNK,1983-02-28,nikolaj.villumsen@europarl.europa.eu,https://www.facebook.com/nikolaj.villumsen,https://twitter.com/nvillumsen
+197572,Anna,ZALEWSKA,POL,1965-07-06,anna.zalewska@europarl.europa.eu,https://www.facebook.com/AnnaZalewskaPiS,https://twitter.com/annazalewskamep
+197573,Kira Marie,PETER-HANSEN,DNK,1998-02-23,kira.peter-hansen@europarl.europa.eu,https://www.facebook.com/Kira.M.P.Hansen/,https://twitter.com/kira_mph
+197574,Damien,CARÊME,FRA,1960-11-16,damien.careme@europarl.europa.eu,,https://twitter.com/damiencareme
+197576,Sylvie,BRUNET,FRA,1959-03-12,sylvie.brunet@europarl.europa.eu,,https://twitter.com/syl_brunet
+197577,Gilles,BOYER,FRA,1971-07-04,gilles.boyer@europarl.europa.eu,,https://twitter.com/gillesboyer
+197578,Silvia,SARDONE,ITA,1982-12-25,silvia.sardone@europarl.europa.eu,https://www.facebook.com/silviasardone,https://twitter.com/SardoneSilvia
+197579,Klára,DOBREV,HUN,1972-02-02,klara.dobrev@europarl.europa.eu,https://www.facebook.com/dobrevklara/,
+197580,Isabella,TOVAGLIERI,ITA,1987-06-25,isabella.tovaglieri@europarl.europa.eu,https://www.facebook.com/IsabellaTovaglieriLega/,
+197581,Stéphanie,YON-COURTIN,FRA,1974-03-28,stephanie.yon@europarl.europa.eu,https://www.facebook.com/StephanieYonCourtin/,https://twitter.com/s_yoncourtin
+197582,Gianna,GANCIA,ITA,1972-12-31,gianna.gancia@europarl.europa.eu,https://www.facebook.com/giannagancia/,https://twitter.com/giannagancia?lang=en
+197584,Sándor,RÓNAI,HUN,1988-11-22,sandor.ronai@europarl.europa.eu,https://www.facebook.com/ronaisandor,https://twitter.com/sandor_ronai
+197585,Pierre,KARLESKIND,FRA,1979-10-19,pierre.karleskind@europarl.europa.eu,https://www.facebook.com/pierrekarleskindMEP/,https://twitter.com/Pierre_Ka
+197586,Stefania,ZAMBELLI,ITA,,stefania.zambelli@europarl.europa.eu,https://www.facebook.com/scrivizambelli,
+197587,Attila,ARA-KOVÁCS,HUN,1953-01-14,attila.ara-kovacs@europarl.europa.eu,,
+197588,Katalin,CSEH,HUN,1988-06-29,katalin.cseh@europarl.europa.eu,https://www.facebook.com/csehkatalin.momentum/,https://twitter.com/katka_cseh
+197589,Laurence,FARRENG,FRA,1966-09-06,laurence.farreng@europarl.europa.eu,,https://twitter.com/laurencefarreng
+197590,Giuliano,PISAPIA,ITA,1949-05-20,giuliano.pisapia@europarl.europa.eu,https://www.facebook.com/giulianopisapia1/,https://twitter.com/giulianopisapia
+197591,Irene,TINAGLI,ITA,1974-04-16,irene.tinagli@europarl.europa.eu,https://www.facebook.com/Irene-Tinagli-142983109068196,https://twitter.com/itinagli
+197592,Pierfrancesco,MAJORINO,ITA,1973-05-14,,,
+197593,Véronique,TRILLET-LENOIR,FRA,1957-06-12,,,
+197594,Laura,HUHTASAARI,FIN,1979-03-30,,,
+197595,Anna Júlia,DONÁTH,HUN,1987-04-06,anna.donath@europarl.europa.eu,https://www.facebook.com/donathannajulia.momentum/,https://twitter.com/donath_anna
+197596,Teuvo,HAKKARAINEN,FIN,1960-04-12,teuvo.hakkarainen@europarl.europa.eu,,
+197597,Hélène,LAPORTE,FRA,1978-12-29,,,
+197599,Richard,TICE,GBR,1964-09-13,,,
+197600,Barbara Ann,GIBSON,GBR,1962-08-25,,,
+197601,Michael,HEAVER,GBR,1989-09-22,,,
+197602,Catherine,ROWETT,GBR,1956-12-29,,,
+197603,June Alison,MUMMERY,GBR,,,,
+197604,Lucy,NETHSINGHA,GBR,1973-02-06,,,
+197606,Javier,ZARZALEJOS,ESP,1960-06-06,javier.zarzalejos@europarl.europa.eu,,https://twitter.com/fzarzalejos
+197607,Pietro,FIOCCHI,ITA,1964-05-22,pietro.fiocchi@europarl.europa.eu,https://www.facebook.com/On.PietroFiocchi/,https://twitter.com/FiocchiPietro
+197608,Gianantonio,DA RE,ITA,1953-09-06,gianantonio.dare@europarl.europa.eu,,
+197610,Alessandra,BASSO,ITA,1967-03-14,alessandra.basso@europarl.europa.eu,https://www.facebook.com/alessandrabassoMEP,
+197611,Elena,LIZZI,ITA,1967-10-30,elena.lizzi@europarl.europa.eu,https://www.facebook.com/scrivolizzi/,https://twitter.com/elenalizzi
+197612,Annunziata Mary,REES-MOGG,GBR,,,,
+197613,Gina,DOWDING,GBR,1962-07-15,,,
+197614,Marco,DREOSTO,ITA,1969-03-18,,,
+197615,Jérôme,RIVIÈRE,FRA,1964-07-08,jerome.riviere@europarl.europa.eu,,https://twitter.com/jerome_riviere
+197616,Rosanna,CONTE,ITA,1968-04-17,rosanna.conte@europarl.europa.eu,https://www.facebook.com/RosannaConte.Lega/,https://twitter.com/rosannaconte_?lang=en
+197617,Carlo,CALENDA,ITA,1973-04-09,,,
+197618,Elisabetta,GUALMINI,ITA,1968-05-17,elisabetta.gualmini@europarl.europa.eu,,
+197619,Sabrina,PIGNEDOLI,ITA,1983-10-24,sabrina.pignedoli@europarl.europa.eu,https://www.facebook.com/SabriPignedoli/,https://twitter.com/SabriPignedoli
+197620,Matthew,PATTEN,GBR,1962-05-21,,,
+197621,Juan Ignacio,ZOIDO ÁLVAREZ,ESP,1957-01-21,juanignacio.zoidoalvarez@europarl.europa.eu,https://www.facebook.com/zoido/,https://twitter.com/zoidoji
+197623,Thierry,MARIANI,FRA,1958-08-08,thierry.mariani@europarl.europa.eu,,
+197624,Ivars,IJABS,LVA,1972-11-17,ivars.ijabs@europarl.europa.eu,https://www.facebook.com/ijabs.ivars/,https://twitter.com/ijabs
+197625,Irina,VON WIESE,GBR,1967-09-11,,,
+197626,Hervé,JUVIN,FRA,1956-01-29,herve.juvin@europarl.europa.eu,,
+197627,Virginie,JORON,FRA,1973-12-11,virginie.joron@europarl.europa.eu,https://www.facebook.com/virginie.joron67,https://twitter.com/v_joron
+197628,Jean-Paul,GARRAUD,FRA,1956-02-27,jean-paul.garraud@europarl.europa.eu,,
+197629,Maxette,PIRBAKAS,FRA,1975-04-14,maxette.pirbakas@europarl.europa.eu,https://www.facebook.com/PirbakasMaxette,https://twitter.com/MaxettePirbakas
+197631,Dacian,CIOLOŞ,ROU,1969-07-27,dacian.ciolos@europarl.europa.eu,,
+197632,Claudia,GAMON,AUT,1988-12-23,claudia.gamon@europarl.europa.eu,https://www.facebook.com/diegamon,https://twitter.com/dieGamon
+197634,Pedro,MARQUES,PRT,1976-08-01,pedro.marques@europarl.europa.eu,https://www.facebook.com/PedroMarquesMEP/,https://twitter.com/PedroMarquesMEP
+197635,Maria-Manuel,LEITÃO-MARQUES,PRT,1952-08-23,maria.marques@europarl.europa.eu,https://www.facebook.com/mariamanuelleitaomarques,https://twitter.com/leitaomarquesep
+197636,Ioan-Rareş,BOGDAN,ROU,1974-09-17,ioan-rares.bogdan@europarl.europa.eu,https://www.facebook.com/Rares.I.Bogdan,
+197637,Vasile,BLAGA,ROU,,vasile.blaga@europarl.europa.eu,,
+197638,Margarida,MARQUES,PRT,1954-02-03,margarida.marques@europarl.europa.eu,https://www.facebook.com/marqumd,https://twitter.com/mmargmarques
+197640,André Jorge,DIONÍSIO BRADFORD,PRT,,,,
+197641,Sara,CERDAS,PRT,1989-03-23,sara.cerdas@europarl.europa.eu,https://www.facebook.com/saracerdasPS/,https://twitter.com/sara_saracerdas
+197642,Ben,HABIB,GBR,1965-06-07,,,
+197643,Karoline,EDTSTADLER,AUT,,,,
+197644,Christian,ALLARD,GBR,1964-03-31,,,
+197645,Francisco,GUERREIRO,PRT,1984-09-12,francisco.guerreiro@europarl.europa.eu,https://www.facebook.com/franciscoguerreiroMEP/,https://twitter.com/fguerreiromep
+197646,Mircea-Gheorghe,HAVA,ROU,1956-12-26,mircea.hava@europarl.europa.eu,https://www.facebook.com/mirceahava/,
+197647,Dan-Ştefan,MOTREANU,ROU,1970-09-11,dan-stefan.motreanu@europarl.europa.eu,,
+197648,Alexander,BERNHUBER,AUT,1992-05-18,alexander.bernhuber@europarl.europa.eu,https://www.facebook.com/alexbernhuber/,
+197649,Gheorghe,FALCĂ,ROU,1967-01-22,gheorghe.falca@europarl.europa.eu,https://www.facebook.com/falca.gheorghe.7,
+197650,Isabel,SANTOS,PRT,1968-02-12,isabel.santos@europarl.europa.eu,https://www.facebook.com/isabelsantosMEP,https://www.twitter.com/isabel_mep
+197651,Carmen,AVRAM,ROU,1966-05-08,carmen-gabriela.avram@europarl.europa.eu,,
+197652,Angelika,WINZIG,AUT,,angelika.winzig@europarl.europa.eu,https://www.facebook.com/angelika.winzig/,https://twitter.com/AngelikaWinzig
+197653,Claudiu,MANDA,ROU,1975-12-20,iulian-claudiu.manda@europarl.europa.eu,,
+197654,Ciarán,CUFFE,IRL,1963-04-03,ciaran.cuffe@europarl.europa.eu,https://www.facebook.com/ciarancuffedublin,https://twitter.com/ciarancuffe
+197655,Cristian,TERHEŞ,ROU,,cristian.terhes@europarl.europa.eu,,
+197656,Simone,SCHMIEDTBAUER,AUT,1974-06-08,,,
+197657,Tudor,CIUHODARU,ROU,1969-01-16,tudor.ciuhodaru@europarl.europa.eu,https://www.facebook.com/TudorCiuhodaru/,
+197658,Adrian-Dragoş,BENEA,ROU,1975-12-18,adrian-dragos.benea@europarl.europa.eu,https://www.facebook.com/dragosbenea/,
+197661,Cristian,GHINEA,ROU,1977-07-20,,,
+197662,Vangelis,MEIMARAKIS,GRC,1953-12-14,evangelos.meimarakis@europarl.europa.eu,https://www.facebook.com/vmeimarakis/,https://twitter.com/v_meimarakis
+197663,Dragoş,PÎSLARU,ROU,1976-03-23,dragos.pislaru@europarl.europa.eu,https://www.facebook.com/Dragos.Pislaru,https://twitter.com/dragos_pislaru
+197664,Clotilde,ARMAND,ROU,1973-06-28,,,
+197665,Dragoş,TUDORACHE,ROU,1975-01-14,ioan-dragos.tudorache@europarl.europa.eu,https://www.facebook.com/IoanDragosTudorache,https://twitter.com/IoanDragosT
+197667,Barbara,THALER,AUT,,barbara.thaler@europarl.europa.eu,https://www.facebook.com/BarbaraMThaler/,
+197668,Vlad-Marius,BOTOŞ,ROU,1986-06-15,vlad-marius.botos@europarl.europa.eu,https://www.facebook.com/VladMBotos/,https://twitter.com/botos_vlad
+197670,Andreas,SCHIEDER,AUT,,andreas.schieder@europarl.europa.eu,https://www.facebook.com/andreas.schieder.eu,https://twitter.com/schieder
+197671,Traian,BĂSESCU,ROU,1951-11-04,traian.basescu@europarl.europa.eu,https://www.facebook.com/PresedinteleTraianBasescu,https://twitter.com/tbasescu
+197672,Eugen,TOMAC,ROU,1981-06-27,eugen.tomac@europarl.europa.eu,https://www.facebook.com/tomaceugen/,
+197675,Sarah,WIENER,AUT,,sarah.wiener@europarl.europa.eu,,
+197677,Günther,SIDL,AUT,,guenther.sidl@europarl.europa.eu,https://www.facebook.com/sidl.guenther,
+197678,Bettina,VOLLATH,AUT,1962-10-29,,,
+197679,Isabel,BENJUMEA BENJUMEA,ESP,1982-09-05,isabel.benjumea@europarl.europa.eu,,https://twitter.com/IsabelBenjumea
+197680,Aurélia,BEIGNEUX,FRA,1980-06-02,aurelia.beigneux@europarl.europa.eu,https://www.facebook.com/abeigneux/,https://twitter.com/aureliabeigneux
+197681,Sira,REGO,ESP,1973-11-20,,,
+197682,Hannes,HEIDE,AUT,1966-10-17,hannes.heide@europarl.europa.eu,https://www.facebook.com/hannesheide.eu,https://twitter.com/HannesHeide
+197683,Gilbert,COLLARD,FRA,1948-02-03,gilbert.collard@europarl.europa.eu,https://fr-fr.facebook.com/collard.officiel/,https://twitter.com/GilbertCollard
+197684,Pernando,BARRENA ARZA,ESP,1965-11-01,,,
+197686,Julie,LECHANTEUX,FRA,1977-12-22,,,
+197687,Philippe,OLIVIER,FRA,1961-08-30,philippe.olivier@europarl.europa.eu,,
+197690,André,ROUGÉ,FRA,1961-12-23,andre.rouge@europarl.europa.eu,,https://twitter.com/AndreRougeOff
+197691,Mathilde,ANDROUËT,FRA,1984-07-03,mathilde.androuet@europarl.europa.eu,https://www.facebook.com/elsa.vassent,
+197692,Stelios,KYMPOUROPOULOS,GRC,1985-07-09,stelios.kympouropoulos@europarl.europa.eu,https://www.facebook.com/eUkympouropoulos/,https://twitter.com/kympouropoulos
+197693,Dinesh,DHAMIJA,GBR,1950-03-28,,,
+197694,Raphaël,GLUCKSMANN,FRA,1979-10-15,raphael.glucksmann@europarl.europa.eu,https://www.facebook.com/raphael.glucksmann,https://twitter.com/rglucks1
+197695,Anna-Michelle,ASIMAKOPOULOU,GRC,1967-03-27,anna-misel.asimakopoulou@europarl.europa.eu,https://www.facebook.com/AnnaMichelleAsimakopoulou/,https://twitter.com/annaasimakopoul
+197696,Scott,AINSLIE,GBR,1968-12-27,,,
+197697,Aurore,LALUCQ,FRA,1979-04-17,aurore.lalucq@europarl.europa.eu,https://www.facebook.com/aurore.lalucq,https://twitter.com/AuroreLalucq
+197698,Pierre,LARROUTUROU,FRA,1964-10-19,pierre.larrouturou@europarl.europa.eu,https://www.facebook.com/larrouturoupierre/,https://twitter.com/larrouturou
+197699,Elena,KOUNTOURA,GRC,,elena.kountoura@europarl.europa.eu,,https://twitter.com/ElenaKountoura
+197700,Luisa,PORRITT,GBR,1987-05-23,,,
+197701,Konstantinos,ARVANITIS,GRC,1964-06-09,konstantinos.arvanitis@europarl.europa.eu,https://www.facebook.com/arvanitis.kostas,
+197702,Lina,GÁLVEZ MUÑOZ,ESP,1969-09-13,lina.galvezmunoz@europarl.europa.eu,,https://twitter.com/linagalvezmunoz
+197703,Lance,FORMAN,GBR,1962-10-13,,,
+197704,Brian,MONTEITH,GBR,1958-01-08,,,
+197705,John David Edward,TENNANT,GBR,1986-12-25,,,
+197708,Claire,FOX,GBR,1960-06-05,,,
+197709,Robert,ROOS,NLD,1966-08-02,rob.roos@europarl.europa.eu,,https://twitter.com/rob_roos
+197710,Alexandra Louise Rosenfield,PHILLIPS,GBR,1985-07-09,,,
+197711,Dolors,MONTSERRAT,ESP,1973-09-18,d.montserrat@europarl.europa.eu,https://www.facebook.com/dolorsmontserratoficial/,https://twitter.com/dolorsmm
+197712,Henrik,OVERGAARD NIELSEN,GBR,1959-08-02,,,
+197714,Ellie,CHOWNS,GBR,1975-03-07,,,
+197715,David,BULL,GBR,1969-05-09,,,
+197716,Jane,BROPHY,GBR,,,,
+197717,Ibán,GARCÍA DEL BLANCO,ESP,1977-02-08,iban.garciadelblanco@europarl.europa.eu,https://www.facebook.com/iban.garciadelblanco,https://twitter.com/Ibangarciadb
+197718,Nicolás,GONZÁLEZ CASARES,ESP,1972-07-20,nicolas.casares@europarl.europa.eu,https://www.facebook.com/nicogoncas,https://twitter.com/nicogoncas
+197719,Cristina,MAESTRE MARTÍN DE ALMAGRO,ESP,1975-07-27,cristina.maestre@europarl.europa.eu,https://www.facebook.com/cristina.maestremartin,https://twitter.com/crismaestre
+197720,Frances,FITZGERALD,IRL,,frances.fitzgerald@europarl.europa.eu,https://www.facebook.com/FitzgeraldFrances,https://twitter.com/FitzgeraldFrncs
+197721,César,LUENA,ESP,1980-10-29,cesar.luena@europarl.europa.eu,https://www.facebook.com/cesarluenalopez,https://twitter.com/cesarluena
+197722,Nacho,SÁNCHEZ AMOR,ESP,1960-05-15,nacho.sanchezamor@europarl.europa.eu,,https://twitter.com/NachoSAmor
+197728,Mónica Silvana,GONZÁLEZ,ESP,1976-02-12,monicasilvana.gonzalez@europarl.europa.eu,https://www.facebook.com/monicasilvanagonzalezgonzalez/,https://twitter.com/MonicaSilvanaG
+197730,Antony,HOOK,GBR,1980-04-10,,,
+197731,Clare,DALY,IRL,1968-04-11,clare.daly@europarl.europa.eu,,
+197732,Manuel,PIZARRO,PRT,1964-02-02,,,
+197733,Robert,ROWLAND,GBR,1966-02-28,,,
+197734,Lefteris,NIKOLAOU-ALAVANOS,GRC,1985-02-07,lefteris.nikolaou@europarl.europa.eu,,
+197735,Adriana,MALDONADO LÓPEZ,ESP,1990-01-09,,,
+197736,Belinda,DE LUCY,GBR,1976-10-15,,,
+197737,Ioannis,LAGOS,GRC,,ioannis.lagos@europarl.europa.eu,,https://twitter.com/iwlagos?lang=en
+197738,Lídia,PEREIRA,PRT,1991-07-26,lidia.pereira@europarl.europa.eu,https://www.facebook.com/lidiafopereira,https://twitter.com/lidiafopereira
+197739,Judith,BUNTING,GBR,,,,
+197740,Athanasios,KONSTANTINOU,GRC,1959-07-18,athanasios.konstantinou@europarl.europa.eu,,
+197742,Isabel,GARCÍA MUÑOZ,ESP,1977-03-03,isabel.garciamunoz@europarl.europa.eu,,
+197743,Petros,KOKKALIS,GRC,1970-02-26,petros.kokkalis@europarl.europa.eu,https://www.facebook.com/KokkalisPetros,https://twitter.com/PetrosKokkalis
+197744,Ann,WIDDECOMBE,GBR,1947-10-04,,,
+197746,Álvaro,AMARO,PRT,1953-05-25,,,
+197747,Kyriakos,VELOPOULOS,GRC,1965-10-24,,,
+197749,Caroline,VOADEN,GBR,1968-11-22,,,
+197751,James Alexander,GLANCY,GBR,,,,
+197752,Christina Sheila,JORDAN,GBR,,,,
+197754,Sandra,PEREIRA,PRT,1977-03-18,sandra.pereira@europarl.europa.eu,,
+197755,Martin,HORWOOD,GBR,1962-10-12,,,
+197756,Vera,TAX,NLD,1972-02-08,vera.tax@europarl.europa.eu,https://www.facebook.com/Vera-Tax-104024417686758/,https://twitter.com/Vera_Tax?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+197757,James,WELLS,GBR,,,,
+197758,Jackie,JONES,GBR,,,,
+197759,Rupert,LOWE,GBR,1957-10-31,,,
+197760,Martin Edward,DAUBNEY,GBR,1970-06-22,,,
+197761,Miroslav,ČÍŽ,SVK,1954-02-11,,,
+197763,Milan,UHRÍK,SVK,,milan.uhrik@europarl.europa.eu,https://sk-sk.facebook.com/ing.milan.uhrik,https://twitter.com/MilanUhrik
+197764,Miroslav,RADAČOVSKÝ,SVK,1953-09-24,miroslav.radacovsky@europarl.europa.eu,https://www.facebook.com/radacovskypatriot,https://twitter.com/radacovskymep
+197765,Peter,POLLÁK,SVK,1973-04-20,peter.pollak@europarl.europa.eu,https://www.facebook.com/peterpollak.sk/,
+197766,Lucia,ĎURIŠ NICHOLSONOVÁ,SVK,1976-11-28,lucia.durisnicholsonova@europarl.europa.eu,https://www.facebook.com/lucianicholsonovaverivzdravyrozum/,https://twitter.com/LNicholsonova
+197767,Eugen,JURZYCA,SVK,1958-02-08,eugen.jurzyca@europarl.europa.eu,https://www.facebook.com/eugen.jurzyca.sk/,https://twitter.com/EugenJurzyca
+197769,Michal,WIEZIK,SVK,1979-06-14,michal.wiezik@europarl.europa.eu,https://www.facebook.com/michalwiezikspolu,
+197770,Martin,HOJSÍK,SVK,1977-01-27,martin.hojsik@europarl.europa.eu,https://www.facebook.com/martinhojsik/,https://twitter.com/martinhojsik
+197771,Vladimír,BILČÍK,SVK,1975-05-27,vladimir.bilcik@europarl.europa.eu,https://www.facebook.com/Bilcik.Vladimir/,https://twitter.com/vladobilcik
+197772,Tineke,STRIK,NLD,1961-09-28,tineke.strik@europarl.europa.eu,,https://twitter.com/tineke_strik
+197773,Bert-Jan,RUISSEN,NLD,1972-03-22,bert-jan.ruissen@europarl.europa.eu,https://www.facebook.com/bertjanruissen/,https://twitter.com/hjaruissen
+197776,Rob,ROOKEN,NLD,1969-10-05,rob.rooken@europarl.europa.eu,,https://twitter.com/rooken
+197777,Leopoldo,LÓPEZ GIL,ESP,1944-10-20,leopoldo.lopez@europarl.europa.eu,,https://twitter.com/LeopoldoLopezG
+197778,Tom,BERENDSEN,NLD,1983-04-11,tom.berendsen@europarl.europa.eu,https://www.facebook.com/TomBerendsenCDA,https://twitter.com/tbwberendsen
+197779,José Ramón,BAUZÁ DÍAZ,ESP,1970-11-16,joseramon.bauzadiaz@europarl.europa.eu,https://www.facebook.com/joseramonbauza,https://twitter.com/jrbauza
+197780,Bart,GROOTHUIS,NLD,1981-01-01,bart.groothuis@europarl.europa.eu,,https://twitter.com/bgroothuis
+197781,Malik,AZMANI,NLD,1976-01-20,malik.azmani@europarl.europa.eu,https://www.facebook.com/MalikAzmaniVVD,https://twitter.com/MalikAzmani
+197782,Mohammed,CHAHIM,NLD,1985-04-18,mohammed.chahim@europarl.europa.eu,,https://twitter.com/MChahim
+197783,Andris,AMERIKS,LVA,1961-03-05,andris.ameriks@europarl.europa.eu,https://www.facebook.com/Andris.Ameriks/,https://twitter.com/AndrisAmeriks
+197784,Susana,SOLÍS PÉREZ,ESP,,susana.solisperez@europarl.europa.eu,,https://twitter.com/susanasolisp
+197785,Eugenia,RODRÍGUEZ PALOP,ESP,1970-03-09,eugenia.rodriguezpalop@europarl.europa.eu,,
+197786,Susanna,CECCARDI,ITA,1987-03-19,susanna.ceccardi@europarl.europa.eu,https://www.facebook.com/Susannaceccardi87/,
+197787,Antonio Maria,RINALDI,ITA,1955-02-27,antonio.rinaldi@europarl.europa.eu,https://www.facebook.com/rinaldiofficial/,https://twitter.com/Rinaldi_euro
+197788,Anna,BONFRISCO,ITA,1962-10-12,anna.bonfrisco@europarl.europa.eu,,
+197789,Simona,BALDASSARRE,ITA,1970-11-12,,,
+197790,Luisa,REGIMENTI,ITA,1958-06-05,,,
+197791,Massimiliano,SMERIGLIO,ITA,1966-05-08,massimiliano.smeriglio@europarl.europa.eu,https://www.facebook.com/massimiliano.smeriglio,https://twitter.com/maxsmeriglio
+197792,Daniela,RONDINELLI,ITA,1967-08-19,daniela.rondinelli@europarl.europa.eu,https://www.facebook.com/DanielaRondinelliM5S/,https://twitter.com/dani_rondinelli
+197794,Chiara,GEMMA,ITA,1968-09-20,chiara.gemma@europarl.europa.eu,https://www.facebook.com/ChiaraGemmaUE,
+197795,Mario,FURORE,ITA,1988-12-25,mario.furore@europarl.europa.eu,https://www.facebook.com/pg/mariofurore.europarlamentare/posts/,https://twitter.com/MarioFurore
+197796,Massimo,CASANOVA,ITA,1970-08-31,massimo.casanova@europarl.europa.eu,,
+197797,Andrea,CAROPPO,ITA,1979-06-26,,,
+197798,Lucia,VUOLO,ITA,1963-02-15,lucia.vuolo@europarl.europa.eu,https://www.facebook.com/lucia.vuolo.europa/,https://twitter.com/luciavuoloeu
+197799,Valentino,GRANT,ITA,1964-04-21,valentino.grant@europarl.europa.eu,,https://twitter.com/ValentinoGrant
+197800,Eero,HEINÄLUOMA,FIN,1955-07-04,eero.heinaluoma@europarl.europa.eu,https://www.facebook.com/heinaluoma,
+197801,Franco,ROBERTI,ITA,1947-11-16,franco.roberti@europarl.europa.eu,,https://twitter.com/francorobertieu/
+197802,Ville,NIINISTÖ,FIN,1976-07-30,ville.niinisto@europarl.europa.eu,https://www.facebook.com/niinistoville,https://www.twitter.com/villeniinisto
+197803,Andrew,ENGLAND KERR,GBR,1958-09-23,,,
+197804,Dino,GIARRUSSO,ITA,1974-09-11,dino.giarrusso@europarl.europa.eu,https://www.facebook.com/ienadinogiarrusso,https://twitter.com/dinogiarrusso
+197805,Silvia,MODIG,FIN,1976-07-08,silvia.modig@europarl.europa.eu,https://www.facebook.com/silviamodig/,
+197806,Annalisa,TARDINO,ITA,1979-04-30,annalisa.tardino@europarl.europa.eu,https://www.facebook.com/VotaAnnalisaTardino/,https://twitter.com/TardinoAnnalisa
+197807,John,LONGWORTH,GBR,1958-05-14,,,
+197808,Pietro,BARTOLO,ITA,1956-02-10,pietro.bartolo@europarl.europa.eu,,
+197809,Lucy Elizabeth,HARRIS,GBR,1990-10-19,,,
+197810,Nils,UŠAKOVS,LVA,1976-06-08,nils.usakovs@europarl.europa.eu,,
+197811,Shaffaq,MOHAMMED,GBR,1972-07-21,,,
+197812,Magid,MAGID,GBR,1989-06-26,,,
+197813,Jake,PUGH,GBR,1960-10-20,,,
+197814,Louis,STEDMAN-BRYCE,GBR,,,,
+197815,Sheila,RITCHIE,GBR,1957-05-18,,,
+197816,Naomi,LONG,GBR,1971-12-13,,,
+197817,Mick,WALLACE,IRL,1955-11-09,mick.wallace@europarl.europa.eu,,https://twitter.com/wallacemick
+197818,Billy,KELLEHER,IRL,1968-01-20,billy.kelleher@europarl.europa.eu,,
+197819,Alexis,GEORGOULIS,GRC,1974-10-06,alexis.georgoulis@europarl.europa.eu,https://www.facebook.com/alexis.georgoulis.315,https://twitter.com/AlexisMep
+197820,Nicola,PROCACCINI,ITA,1976-01-21,nicola.procaccini@europarl.europa.eu,https://www.facebook.com/procaccini2019,
+197822,Francesca,DONATO,ITA,1969-08-25,francesca.donato@europarl.europa.eu,https://www.facebook.com/ladyonorato/,https://twitter.com/ladyonorato
+197824,Giuseppe,MILAZZO,ITA,1977-08-21,giuseppe.milazzo@europarl.europa.eu,https://www.facebook.com/giuseppe.milazzo.927,https://twitter.com/giuseppemilaz11
+197825,Raffaele,STANCANELLI,ITA,1950-06-30,raffaele.stancanelli@europarl.europa.eu,,
+197826,Matteo,ADINOLFI,ITA,1963-12-24,matteo.adinolfi@europarl.europa.eu,https://www.facebook.com/MatteoAdinolfiLega,
+197827,Idoia,VILLANUEVA RUIZ,ESP,1980-07-17,idoia.villanueva@europarl.europa.eu,https://fr-fr.facebook.com/IdoiaVR/,https://twitter.com/idoiavr?lang=fr
+197828,Manu,PINEDA,ESP,1965-09-02,manu.pineda@europarl.europa.eu,https://www.facebook.com/manu.illich,https://twitter.com/ManuPineda
+197829,Jorge,BUXADÉ VILLALBA,ESP,1975-06-16,jorge.buxadevillalba@europarl.europa.eu,https://www.facebook.com/Jorge-Buxadé-Villalba-264967356864656/,https://twitter.com/jorgebuxade
+197831,Hermann,TERTSCH,ESP,1958-04-09,hermann.tertsch@europarl.europa.eu,,https://twitter.com/hermanntertsch
+197832,Diana,RIBA I GINER,ESP,,diana.ribaiginer@europarl.europa.eu,,https://twitter.com/DianaRibaGiner
+197835,Aušra,SEIBUTYTĖ,LTU,1958-06-04,ausra.maldeikiene@europarl.europa.eu,https://www.facebook.com/maldeikiene/,https://twitter.com/maldeikiene
+197836,Alexander,ALEXANDROV YORDANOV,BGR,1952-02-13,alexander.yordanov@europarl.europa.eu,,
+197837,Stasys,JAKELIŪNAS,LTU,1958-10-02,stasys.jakeliunas@europarl.europa.eu,,
+197838,Juozas,OLEKAS,LTU,1955-10-30,juozas.olekas@europarl.europa.eu,https://www.facebook.com/juozas.olekas.5,
+197839,Radan,KANEV,BGR,1975-09-30,radan.kanev@europarl.europa.eu,https://www.facebook.com/radan.kanev,https://twitter.com/rmkanev
+197840,Rasa,JUKNEVIČIENĖ,LTU,1958-01-26,rasa.jukneviciene@europarl.europa.eu,https://www.facebook.com/rasa.jukneviciene,https://twitter.com/RJukneviciene
+197841,Liudas,MAŽYLIS,LTU,,liudas.mazylis@europarl.europa.eu,,
+197842,Elena,YONCHEVA,BGR,1964-05-27,elena.yoncheva@europarl.europa.eu,,
+197843,Andrius,KUBILIUS,LTU,1956-12-08,andrius.kubilius@europarl.europa.eu,https://www.facebook.com/kubilius.lt/,https://twitter.com/kubiliusa
+197844,Petar,VITANOV,BGR,1982-04-18,petar.vitanov@europarl.europa.eu,https://www.facebook.com/peter.vitanov,
+197845,Tsvetelina,PENKOVA,BGR,1988-02-19,tsvetelina.penkova@europarl.europa.eu,https://www.facebook.com/Tsvetelina.M.Penkova/,https://twitter.com/tsvetypenkova
+197846,Ivo,HRISTOV,BGR,1970-10-08,ivo.hristov@europarl.europa.eu,,
+197848,Atidzhe,ALIEVA-VELI,BGR,1981-09-18,atidzhe.alieva-veli@europarl.europa.eu,,
+197849,Andrey,SLABAKOV,BGR,1960-08-13,andrey.slabakov@europarl.europa.eu,,
+197863,Maria,WALSH,IRL,1987-06-11,maria.walsh@europarl.europa.eu,https://www.facebook.com/MariaWalshEU/,https://twitter.com/mariawalsheu
+197868,Samira,RAFAELA,NLD,1989-02-11,samira.rafaela@europarl.europa.eu,https://www.facebook.com/SamiraRafaelaD66,https://twitter.com/samiraraf
+197869,Liesje,SCHREINEMACHER,NLD,1983-05-13,,,
+197870,Kim,VAN SPARRENTAK,NLD,1989-10-16,kim.vansparrentak@europarl.europa.eu,,https://twitter.com/kimvsparrentak
+197889,Grace,O'SULLIVAN,IRL,1962-03-08,grace.osullivan@europarl.europa.eu,https://www.facebook.com/GraceOSullivanIE/,https://twitter.com/graceosllvn
+197894,László,TRÓCSÁNYI,HUN,1956-03-06,laszlo.trocsanyi@europarl.europa.eu,https://www.facebook.com/TrocsanyiLaszlo/,https://twitter.com/trocsanyi
+197935,Ivan Vilibor,SINČIĆ,HRV,1990-08-28,ivanvilibor.sincic@europarl.europa.eu,https://www.facebook.com/ivsincic/,
+198063,Márton,GYÖNGYÖSI,HUN,1977-06-08,marton.gyongyosi@europarl.europa.eu,https://www.facebook.com/gyongyosi.jobbik,https://twitter.com/GyongyosiMarton
+198096,Mazaly,AGUILAR,ESP,1949-09-20,mazaly.aguilar@europarl.europa.eu,,
+198176,Roman,HAIDER,AUT,1967-04-13,roman.haider@europarl.europa.eu,,
+198183,Mihai,TUDOSE,ROU,1967-03-06,mihai.tudose@europarl.europa.eu,,
+198329,Estrella,DURÁ FERRANDIS,ESP,1963-09-22,estrella.dura@europarl.europa.eu,https://www.facebook.com/estrelladuramep,https://twitter.com/estrella_dura
+198490,Emmanouil,FRAGKOS,GRC,1993-06-27,emmanouil.fragkos@europarl.europa.eu,https://www.facebook.com/pages/category/Politician/Εμμανουήλ-Φράγκος-Φραγκούλης-Emmanouil-Fragkos-113822013362486/,https://twitter.com/e_fragkos?lang=en
+199941,Marianne,VIND,DNK,1970-12-03,marianne.vind@europarl.europa.eu,https://www.facebook.com/MarianneVindEP,https://twitter.com/mariannevind?lang=en
+199996,Isabel,CARVALHAIS,PRT,,isabel.carvalhais@europarl.europa.eu,https://www.facebook.com/isabelestradacarvalhaisue/,https://twitter.com/IECarvalhais
+202036,Sunčana,GLAVAK,HRV,1968-12-09,suncana.glavak@europarl.europa.eu,https://www.facebook.com/SGlavak,https://twitter.com/SuncanaGlavak
+202073,Marc,ANGEL,LUX,1963-03-12,marc.angel@europarl.europa.eu,https://www.facebook.com/MarcAngelLuxembourg/,https://twitter.com/marcangel_lu
+202112,Gheorghe-Vlad,NISTOR,ROU,1954-07-25,gheorghe-vlad.nistor@europarl.europa.eu,,
+202351,Carles,PUIGDEMONT I CASAMAJÓ,ESP,,carles.puigdemonticasamajo@europarl.europa.eu,https://www.facebook.com/KRLSPuigdemont/,https://twitter.com/KRLS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+202352,Antoni,COMÍN I OLIVERES,ESP,1971-03-07,antoni.cominioliveres@europarl.europa.eu,,https://twitter.com/toni_comin
+204331,Linea,SØGAARD-LIDELL,DNK,1987-03-30,,,
+204332,Barry,ANDREWS,IRL,1967-05-16,barry.andrews@europarl.europa.eu,,
+204333,Salvatore,DE MEO,ITA,1971-10-27,salvatore.demeo@europarl.europa.eu,https://www.facebook.com/DeMeoSalvatore/,https://twitter.com/salv_de_meo
+204334,Vincenzo,SOFO,ITA,1986-12-18,vincenzo.sofo@europarl.europa.eu,,
+204335,Alviina,ALAMETSÄ,FIN,1992-09-29,alviina.alametsa@europarl.europa.eu,https://www.facebook.com/alviinavaaleissa/,https://twitter.com/alviinaalametsa
+204336,Miriam,LEXMANN,SVK,1972-12-02,miriam.lexmann@europarl.europa.eu,https://www.facebook.com/miriamlexmann.sk/,https://twitter.com/MiriamMLex
+204346,Dominik,TARCZYŃSKI,POL,,dominik.tarczynski@europarl.europa.eu,,https://twitter.com/d_tarczynski
+204368,Christian,SAGARTZ,AUT,1981-01-16,christian.sagartz@europarl.europa.eu,https://www.facebook.com/sagartzchristian,
+204371,Heather,ANDERSON,GBR,1959-01-31,,,
+204400,Adrián,VÁZQUEZ LÁZARA,ESP,1982-05-05,adrian.vazquezlazara@europarl.europa.eu,,https://twitter.com/adrianvl1982
+204413,Marcos,ROS SEMPERE,ESP,1974-03-24,marcos.ros@europarl.europa.eu,,https://twitter.com/mrossemp?lang=it
+204414,Margarita,DE LA PISA CARRIÓN,ESP,1975-09-19,margarita.delapisa@europarl.europa.eu,,
+204416,Ilana,CICUREL,FRA,1972-02-08,ilana.cicurel@europarl.europa.eu,,https://twitter.com/ilanacicurelrem
+204418,Nora,MEBAREK,FRA,1972-07-22,nora.mebarek@europarl.europa.eu,,
+204419,Sandro,GOZI,FRA,1968-03-25,sandro.gozi@europarl.europa.eu,https://www.facebook.com/sandrogoziufficiale/,
+204420,Claude,GRUFFAT,FRA,1957-09-13,claude.gruffat@europarl.europa.eu,,
+204421,Jean-Lin,LACAPELLE,FRA,1967-04-17,jean-lin.lacapelle@europarl.europa.eu,https://www.facebook.com/jeanlin.lacapelle,https://twitter.com/jllacapelle
+204443,Clara,PONSATÍ OBIOLS,ESP,1957-03-19,clara.ponsatiobiols@europarl.europa.eu,,https://twitter.com/claraponsati
+204449,Riho,TERRAS,EST,1967-04-17,riho.terras@europarl.europa.eu,https://www.facebook.com/terraseuroopa,https://twitter.com/RihoTerras
+204733,Dorien,ROOKMAKER,NLD,1964-07-30,dorien.rookmaker@europarl.europa.eu,https://www.facebook.com/DorienRookmakerMEP,https://twitter.com/rookmakerdorien?
+205452,Chris,MACMANUS,IRL,1973-03-13,chris.macmanus@europarl.europa.eu,https://www.facebook.com/ChrisMacManusMEP/,https://twitter.com/macmanuschris
+206158,Manuela,RIPA,DEU,,manuela.ripa@europarl.europa.eu,https://www.facebook.com/ripamanuela,https://twitter.com/RipaManuela
+208722,Sara,MATTHIEU,BEL,1981-05-21,sara.matthieu@europarl.europa.eu,https://www.facebook.com/saraswati.matthieu,https://twitter.com/msaraswati
+209091,Cyrus,ENGERER,MLT,1981-09-28,cyrus.engerer@europarl.europa.eu,https://www.facebook.com/engerer.cyrus/,https://twitter.com/engerer
+209140,Vlad,GHEORGHE,ROU,1985-02-22,vlad.gheorghe@europarl.europa.eu,https://www.facebook.com/VladGheorgheMEP,https://twitter.com/vladdangheorghe
+209896,Colm,MARKEY,IRL,1972-01-03,colm.markey@europarl.europa.eu,,https://twitter.com/colmmarkey
+212855,Alin,MITUȚA,ROU,1984-05-24,alin.mituta@europarl.europa.eu,https://www.facebook.com/alin.mituta/,https://twitter.com/alinmituta
+213330,Ernő,SCHALLER-BAROSS,HUN,,erno.schaller-baross@europarl.europa.eu,,
+214839,Emma,WIESNER,SWE,1992-11-11,emma.wiesner@europarl.europa.eu,https://www.facebook.com/EmmaWiesnerEU/,https://twitter.com/emmawiesner
+218347,Thijs,REUTEN,NLD,,thijs.reuten@europarl.europa.eu,https://www.facebook.com/ThijsReutenMEP,https://twitter.com/thijsreuten
+218349,Michiel,HOOGEVEEN,NLD,,michiel.hoogeveen@europarl.europa.eu,,https://twitter.com/mphoogeveen
+221463,Ladislav,ILČIĆ,HRV,1970-08-04,ladislav.ilcic@europarl.europa.eu,,
+226260,Karolin,BRAUNSBERGER-REINHOLD,DEU,1986-11-03,karolin.braunsberger-reinhold@europarl.europa.eu,https://www.facebook.com/karolinreinhold.st/,https://twitter.com/kbr_europa
+228286,Karsten,LUCKE,DEU,1974-12-29,karsten.lucke@europarl.europa.eu,https://www.facebook.com/KarstenLuckeMdEP,https://twitter.com/karstenlucke
+228604,Ilan,DE BASSO,SWE,,ilan.debasso@europarl.europa.eu,https://www.facebook.com/ilandebassopolitiker,https://mobile.twitter.com/ilandebasso
+229352,Malte,GALLÉE,DEU,1993-09-05,,,
+229519,Catharina,RINZEMA,NLD,1985-07-04,catharina.rinzema@europarl.europa.eu,,
+229839,René,REPASI,DEU,1979-11-08,rene.repasi@europarl.europa.eu,,
+230085,Camilla,LAURETI,ITA,1975-05-20,camilla.laureti@europarl.europa.eu,,
+232843,Jan,OVELGÖNNE,DEU,1975-06-30,jan.ovelgoenne@europarl.europa.eu,,
+233862,Matjaž,NEMEC,SVN,1980-04-10,matjaz.nemec@europarl.europa.eu,https://www.facebook.com/MatjazNemecSD/events,https://twitter.com/matjanemec
+234344,Max,ORVILLE,FRA,1962-06-19,max.orville@europarl.europa.eu,,https://twitter.com/max_orville
+236050,Marie,DAUCHY,FRA,1987-02-05,marie.dauchy@europarl.europa.eu,,
+236051,Eric,MINARDI,FRA,1956-03-18,eric.minardi@europarl.europa.eu,https://www.facebook.com/people/Eric-Minardi/100063880997375/,
+236052,Patricia,CHAGNON,FRA,1963-11-20,patricia.chagnon@europarl.europa.eu,,
+236053,Marina,MESURE,FRA,1989-07-12,marina.mesure@europarl.europa.eu,,
+237224,João,ALBUQUERQUE,PRT,1986-12-25,joao.albuquerque@europarl.europa.eu,https://www.facebook.com/jduartealbuquerque,https://twitter.com/jdalbuquerque?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+237320,Eva Maria,POPTCHEVA,ESP,1979-10-17,evamaria.poptcheva@europarl.europa.eu,,
+237465,Matthias,ECKE,DEU,1983-04-12,matthias.ecke@europarl.europa.eu,https://www.facebook.com/matthiasecke,https://twitter.com/MattEcke
+237779,Carina,OHLSSON,SWE,1957-06-14,carina.ohlsson@europarl.europa.eu,,
+238639,Johan,NISSINEN,SWE,1989-05-17,johan.nissinen@europarl.europa.eu,http://www.facebook.com/nissinenjohan,https://twitter.com/JohanNissinen
+238674,Theresa,BIELOWSKI,AUT,1984-06-15,theresa.bielowski@europarl.europa.eu,,
+239255,Matteo,GAZZINI,ITA,1985-07-09,matteo.gazzini@europarl.europa.eu,https://www.facebook.com/Matteo.Gazzini.eu,https://twitter.com/Matteo_Gazzini
+239256,Paola,GHIDONI,ITA,1963-07-08,paola.ghidoni@europarl.europa.eu,,
+239257,Achille,VARIATI,ITA,1953-01-19,achille.variati@europarl.europa.eu,,
+239258,Maria Angela,DANZÌ,ITA,1957-07-05,mariangela.danzi@europarl.europa.eu,,
+239260,Denis,NESCI,ITA,1981-07-25,denis.nesci@europarl.europa.eu,,
+239262,Elisabetta,DE BLASIS,ITA,1974-04-30,elisabetta.deblasis@europarl.europa.eu,https://www.facebook.com/elisabettadeblasiss/,https://twitter.com/EBlasis
+239271,Eleni,STAVROU,CYP,1975-07-04,eleni.stavrou@europarl.europa.eu,https://www.facebook.com/people/Dr-Eleni-Stavrou-%CE%94%CF%81-%CE%95%CE%BB%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%85/100048825057003/,
+239972,Erik,POULSEN,DNK,1967-06-16,erik.poulsen@europarl.europa.eu,,
+239973,Bergur Løkke,RASMUSSEN,DNK,1990-03-04,bergurlokke.rasmussen@europarl.europa.eu,https://www.facebook.com/BergurLokkeRasmussen,https://twitter.com/BergurLokke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+240478,Beatrice,COVASSI,ITA,1968-12-01,beatrice.covassi@europarl.europa.eu,,
+243912,Maria Veronica,ROSSI,ITA,1988-09-22,mariaveronica.rossi@europarl.europa.eu,,
+243979,Francesca,PEPPUCCI,ITA,1993-06-02,francesca.peppucci@europarl.europa.eu,https://www.facebook.com/francescapeppucciofficial,
+244571,Nikos,PAPANDREOU,GRC,1956-09-29,nikos.papandreou@europarl.europa.eu,https://www.facebook.com/Nikos.A.Papandreou,
+245018,Christophe,CLERGEAU,FRA,1968-09-01,christophe.clergeau@europarl.europa.eu,https://www.facebook.com/clergeau,https://twitter.com/clergeau
+245858,Thomas,RUDNER,DEU,1961-09-11,thomas.rudner@europarl.europa.eu,,
+247122,Catherine,AMALRIC,FRA,1964-10-19,catherine.amalric@europarl.europa.eu,,
+247709,Anja,HAGA,NLD,1976-12-25,anja.haga@europarl.europa.eu,https://www.facebook.com/AnjaHaga/,https://twitter.com/anjahaga
+247735,Laura,BALLARÍN CEREZA,ESP,1984-07-19,laura.ballarincereza@europarl.europa.eu,https://www.facebook.com/lauballarin,https://x.com/lauballarin
+247737,Ana,COLLADO JIMÉNEZ,ESP,1984-02-08,ana.colladojimenez@europarl.europa.eu,,http://twitter.com/anicollado
+249284,Laurence,SAILLIET,FRA,1973-03-01,laurence.sailliet@europarl.europa.eu,,https://twitter.com/lsailliet
+249285,Lydie,MASSARD,FRA,1978-08-24,lydie.massard@europarl.europa.eu,,
+249443,Wolfram,PIRCHNER,AUT,1958-04-21,wolfram.pirchner@europarl.europa.eu,https://www.facebook.com/PirchnerWolfram,
+249603,Martine,KEMP,LUX,1994-07-08,martine.kemp@europarl.europa.eu,,
+249826,Jozef,MIHÁL,SVK,1965-03-18,jozef.mihal@europarl.europa.eu,,
+250235,Witold,PAHL,POL,1961-12-07,witold.pahl@europarl.europa.eu,,
+250237,Włodzimierz,KARPIŃSKI,POL,1961-11-16,wlodzimierz.karpinski@europarl.europa.eu,,
+250538,Rafał,ROMANOWSKI,POL,1978-02-15,rafal.romanowski@europarl.europa.eu,,
+250572,Patricia,CARO MAYA,ESP,,patricia.caromaya@europarl.europa.eu,,
+250918,François,THIOLLET,FRA,1975-10-21,francois.thiollet@europarl.europa.eu,,
+251249,Esther,SANZ SELVA,ESP,1985-07-02,esther.sanzselva@europarl.europa.eu,,
+251268,Michael,KAUCH,DEU,1967-05-04,michael.kauch@europarl.europa.eu,,
+251324,Krzysztof,BREJZA,POL,1983-05-16,krzysztof.brejza@europarl.europa.eu,,
+251859,Guy,LAVOCAT,FRA,1963-02-14,guy.lavocat@europarl.europa.eu,,https://twitter.com/Guy_Lvt
+251874,Niels,GEUKING,DEU,1992-11-17,niels.geuking@europarl.europa.eu,,
+253008,Linus,GLANZELIUS,SWE,1990-12-28,linus.glanzelius@europarl.europa.eu,,
+253043,Henk Jan,ORMEL,NLD,1955-12-15,henkjan.ormel@europarl.europa.eu,,
+254718,Anabela,RODRIGUES,PRT,1976-10-18,anabela.rodrigues@europarl.europa.eu,,
+254719,Vasco,BECKER-WEINBERG,PRT,1979-09-21,vasco.becker-weinberg@europarl.europa.eu,,
+254720,Ana Miguel,DOS SANTOS,PRT,1981-09-12,anamiguel.dossantos@europarl.europa.eu,,
+254721,Vânia,NETO,PRT,1979-04-25,vania.neto@europarl.europa.eu,,
+254722,Teófilo,SANTOS,PRT,1951-02-12,teofilo.santos@europarl.europa.eu,,
+254876,Ricardo,MORGADO,PRT,1987-05-13,ricardo.morgado@europarl.europa.eu,,
