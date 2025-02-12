@@ -146,7 +146,7 @@ write.csv(edgelist_4, file = "../matrices_and_networks/primary_subjects/4_econom
 
 # ------------------------------------------------------------------------------
 
-
+  
 # 5 - Economic and monetary system
 agents_and_artifacts_5 = read.csv("../matrices_and_networks/primary_subjects/5_economic_and_monetary_system/agents_and_artifacts_5.csv", row.names = 1, header = TRUE)
 agents_and_artifacts_5 = as.matrix(agents_and_artifacts_5)
