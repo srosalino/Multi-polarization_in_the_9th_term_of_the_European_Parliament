@@ -194,3 +194,110 @@ agents_and_artifacts_8 = as.matrix(agents_and_artifacts_8)
 edgelist_8 <- sdsm(agents_and_artifacts_8, alpha = 0.01, narrative = TRUE, class = "edgelist")
 
 write.csv(edgelist_8, file = "../matrices_and_networks/primary_subjects/8_state_and_evolution_of_the_union/edgelist_8.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Budget of the Union
+agents_and_artifacts_secondary_1 = read.csv("../matrices_and_networks/secondary_subjects/budget_of_the_union/agents_and_artifacts_secondary_1.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_1 = as.matrix(agents_and_artifacts_secondary_1)
+
+# Edgelist
+edgelist_secondary_1 <- sdsm(agents_and_artifacts_secondary_1, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_1, file = "../matrices_and_networks/secondary_subjects/budget_of_the_union/edgelist_secondary_1.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Common foreign and security policy (CFSP)
+agents_and_artifacts_secondary_2 = read.csv("../matrices_and_networks/secondary_subjects/common_foreign_and_security_policy/agents_and_artifacts_secondary_2.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_2 = as.matrix(agents_and_artifacts_secondary_2)
+
+# Edgelist
+edgelist_secondary_2 <- sdsm(agents_and_artifacts_secondary_2, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_2, file = "../matrices_and_networks/secondary_subjects/common_foreign_and_security_policy/edgelist_secondary_2.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Envioronmental policy
+agents_and_artifacts_secondary_3 = read.csv("../matrices_and_networks/secondary_subjects/environmental_policy/agents_and_artifacts_3.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_3 = as.matrix(agents_and_artifacts_secondary_3)
+
+# Edgelist
+edgelist_secondary_3 <- sdsm(agents_and_artifacts_secondary_3, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_3, file = "../matrices_and_networks/secondary_subjects/environmental_policy/edgelist_secondary_3.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Social policy, social charter and protocol
+agents_and_artifacts_secondary_4 = read.csv("../matrices_and_networks/secondary_subjects/social_policy_social_charter_and_protocol/agents_and_artifacts_4.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_4 = as.matrix(agents_and_artifacts_secondary_4)
+
+# Edgelist
+edgelist_secondary_4 <- sdsm(agents_and_artifacts_secondary_4, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_4, file = "../matrices_and_networks/secondary_subjects/social_policy_social_charter_and_protocol/edgelist_secondary_4.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Agricultural policy and economies
+agents_and_artifacts_secondary_5 = read.csv("../matrices_and_networks/secondary_subjects/agricultural_policy_and_economies/agents_and_artifacts_5.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_5 = as.matrix(agents_and_artifacts_secondary_5)
+
+# Edgelist
+edgelist_secondary_5 <- sdsm(agents_and_artifacts_secondary_5, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_5, file = "../matrices_and_networks/secondary_subjects/agricultural_policy_and_economies/edgelist_secondary_5.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Relations with third countries
+agents_and_artifacts_secondary_6 = read.csv("../matrices_and_networks/secondary_subjects/relations_with_third_countries/agents_and_artifacts_6.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_6 = as.matrix(agents_and_artifacts_secondary_6)
+
+# Edgelist
+edgelist_secondary_6 <- sdsm(agents_and_artifacts_secondary_6, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_6, file = "../matrices_and_networks/secondary_subjects/relations_with_third_countries/edgelist_secondary_6.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Common commercial policy in general
+agents_and_artifacts_secondary_7 = read.csv("../matrices_and_networks/secondary_subjects/common_commercial_policy_in_general/agents_and_artifacts_7.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_7 = as.matrix(agents_and_artifacts_secondary_7)
+
+# Edgelist
+edgelist_secondary_7 <- sdsm(agents_and_artifacts_secondary_7, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_7, file = "../matrices_and_networks/secondary_subjects/common_commercial_policy_in_general/edgelist_secondary_7.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
+
+
+# Information and communications in general
+agents_and_artifacts_secondary_8 = read.csv("../matrices_and_networks/secondary_subjects/information_and_communications_in_general/agents_and_artifacts_8.csv", row.names=1, header=TRUE)
+agents_and_artifacts_secondary_8 = as.matrix(agents_and_artifacts_secondary_8)
+
+# Edgelist
+edgelist_secondary_8 <- sdsm(agents_and_artifacts_secondary_8, alpha = 0.01, narrative = TRUE, class = "edgelist")
+
+write.csv(edgelist_secondary_8, file = "../matrices_and_networks/secondary_subjects/information_and_communications_in_general/edgelist_secondary_8.csv", row.names = FALSE)
+
+
+# ------------------------------------------------------------------------------
