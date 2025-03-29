@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logos/nova_ims_logo.png" alt="NOVA IMS" width="200" height="200">
-
 # Master in Data Science and Advanced Analytics
 
 ## EU Parliament Voting trends: Synergists and Antagonists

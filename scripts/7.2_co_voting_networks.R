@@ -1,98 +1,23 @@
+# Authors: Sebastião Rosalino, Flávio Pinheiro, António Curado
+
+
 # Load the necessary libraries and configurations
 set.seed(18)
 library(backbone)
 sessionInfo()[["otherPkgs"]][["backbone"]][["Version"]]
   
 
-# ALL BILLS
-agents_and_artifacts_all_bills = read.csv("../matrices_and_networks/all_bills/agents_and_artifacts_all_bills.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_all_bills = as.matrix(agents_and_artifacts_all_bills)
+# Entire term
+agents_and_artifacts_entire_term = read.csv("../matrices_and_networks/entire_term/agents_and_artifacts_entire_term.csv", row.names = 1, header = TRUE)
+agents_and_artifacts_entire_term = as.matrix(agents_and_artifacts_entire_term)
 
 # Edgelist
-edgelist_all_bills <- sdsm(agents_and_artifacts_all_bills, alpha = 0.01, narrative = TRUE, class = "edgelist")
+edgelist_entire_term <- sdsm(agents_and_artifacts_entire_term, alpha = 0.01, narrative = TRUE, class = "edgelist")
 
-write.csv(edgelist_all_bills, file = "../matrices_and_networks/all_bills/edgelist_all_bills.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
+write.csv(edgelist_entire_term, file = "../matrices_and_networks/entire_term/edgelist_entire_term.csv", row.names = FALSE)
 
 
-# 2019
-agents_and_artifacts_2019 = read.csv("../matrices_and_networks/years/2019/agents_and_artifacts_2019.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_2019 = as.matrix(agents_and_artifacts_2019)
-
-# Edgelist
-edgelist_2019 <- sdsm(agents_and_artifacts_2019, alpha = 0.01, narrative = TRUE, class = "edgelist")
-
-write.csv(edgelist_2019, file = "../matrices_and_networks/years/2019/edgelist_2019.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
-
-
-# 2020
-agents_and_artifacts_2020 = read.csv("../matrices_and_networks/years/2020/agents_and_artifacts_2020.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_2020 = as.matrix(agents_and_artifacts_2020) 
-
-# Edgelist 
-edgelist_2020 <- sdsm(agents_and_artifacts_2020, alpha = 0.01, narrative = TRUE, class = "edgelist")
-
-write.csv(edgelist_2020, file = "../matrices_and_networks/years/2020/edgelist_2020.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
-
-
-# 2021
-agents_and_artifacts_2021 = read.csv("../matrices_and_networks/years/2021/agents_and_artifacts_2021.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_2021 = as.matrix(agents_and_artifacts_2021) 
-
-# Edgelist 
-edgelist_2021 <- sdsm(agents_and_artifacts_2021, alpha = 0.01, narrative = TRUE, class = "edgelist")
-
-write.csv(edgelist_2021, file = "../matrices_and_networks/years/2021/edgelist_2021.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
-
-
-# 2022
-agents_and_artifacts_2022 = read.csv("../matrices_and_networks/years/2022/agents_and_artifacts_2022.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_2022 = as.matrix(agents_and_artifacts_2022) 
-
-# Edgelist 
-edgelist_2022 <- sdsm(agents_and_artifacts_2022, alpha = 0.01, narrative = TRUE, class = "edgelist")
-
-write.csv(edgelist_2022, file = "../matrices_and_networks/years/2022/edgelist_2022.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
-
-
-# 2023
-agents_and_artifacts_2023 = read.csv("../matrices_and_networks/years/2023/agents_and_artifacts_2023.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_2023 = as.matrix(agents_and_artifacts_2023) 
-
-# Edgelist 
-edgelist_2023 <- sdsm(agents_and_artifacts_2023, alpha = 0.01, narrative = TRUE, class = "edgelist")
-
-write.csv(edgelist_2023, file = "../matrices_and_networks/years/2023/edgelist_2023.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
-
-
-# 2024
-agents_and_artifacts_2024 = read.csv("../matrices_and_networks/years/2024/agents_and_artifacts_2024.csv", row.names = 1, header = TRUE)
-agents_and_artifacts_2024 = as.matrix(agents_and_artifacts_2024) 
-
-# Edgelist 
-edgelist_2024 <- sdsm(agents_and_artifacts_2024, alpha = 0.01, narrative = TRUE, class = "edgelist")
-
-write.csv(edgelist_2024, file = "../matrices_and_networks/years/2024/edgelist_2024.csv", row.names = FALSE)
-
-
-# ------------------------------------------------------------------------------
+# PRIMARY SUBJECTS -------------------------------------------------------------
 
 
 # 1 - European citizenship
@@ -196,10 +121,10 @@ edgelist_8 <- sdsm(agents_and_artifacts_8, alpha = 0.01, narrative = TRUE, class
 write.csv(edgelist_8, file = "../matrices_and_networks/primary_subjects/8_state_and_evolution_of_the_union/edgelist_8.csv", row.names = FALSE)
 
 
-# ------------------------------------------------------------------------------
+# SECONDARY SUBJECTS -----------------------------------------------------------
 
 
-# Budget of the Union
+# 1 - Budget of the Union
 agents_and_artifacts_secondary_1 = read.csv("../matrices_and_networks/secondary_subjects/budget_of_the_union/agents_and_artifacts_secondary_1.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_1 = as.matrix(agents_and_artifacts_secondary_1)
 
@@ -212,7 +137,7 @@ write.csv(edgelist_secondary_1, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Common foreign and security policy (CFSP)
+# 2 - Common foreign and security policy (CFSP)
 agents_and_artifacts_secondary_2 = read.csv("../matrices_and_networks/secondary_subjects/common_foreign_and_security_policy/agents_and_artifacts_secondary_2.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_2 = as.matrix(agents_and_artifacts_secondary_2)
 
@@ -225,7 +150,7 @@ write.csv(edgelist_secondary_2, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Envioronmental policy
+# 3 - Environmental policy
 agents_and_artifacts_secondary_3 = read.csv("../matrices_and_networks/secondary_subjects/environmental_policy/agents_and_artifacts_3.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_3 = as.matrix(agents_and_artifacts_secondary_3)
 
@@ -238,7 +163,7 @@ write.csv(edgelist_secondary_3, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Social policy, social charter and protocol
+# 4 - Social policy, social charter and protocol
 agents_and_artifacts_secondary_4 = read.csv("../matrices_and_networks/secondary_subjects/social_policy_social_charter_and_protocol/agents_and_artifacts_4.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_4 = as.matrix(agents_and_artifacts_secondary_4)
 
@@ -251,7 +176,7 @@ write.csv(edgelist_secondary_4, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Agricultural policy and economies
+# 5 - Agricultural policy and economies
 agents_and_artifacts_secondary_5 = read.csv("../matrices_and_networks/secondary_subjects/agricultural_policy_and_economies/agents_and_artifacts_5.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_5 = as.matrix(agents_and_artifacts_secondary_5)
 
@@ -264,7 +189,7 @@ write.csv(edgelist_secondary_5, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Relations with third countries
+# 6 - Relations with third countries
 agents_and_artifacts_secondary_6 = read.csv("../matrices_and_networks/secondary_subjects/relations_with_third_countries/agents_and_artifacts_6.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_6 = as.matrix(agents_and_artifacts_secondary_6)
 
@@ -277,7 +202,7 @@ write.csv(edgelist_secondary_6, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Common commercial policy in general
+# 7 - Common commercial policy in general
 agents_and_artifacts_secondary_7 = read.csv("../matrices_and_networks/secondary_subjects/common_commercial_policy_in_general/agents_and_artifacts_7.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_7 = as.matrix(agents_and_artifacts_secondary_7)
 
@@ -290,7 +215,7 @@ write.csv(edgelist_secondary_7, file = "../matrices_and_networks/secondary_subje
 # ------------------------------------------------------------------------------
 
 
-# Information and communications in general
+# 8 - Information and communications in general
 agents_and_artifacts_secondary_8 = read.csv("../matrices_and_networks/secondary_subjects/information_and_communications_in_general/agents_and_artifacts_8.csv", row.names=1, header=TRUE)
 agents_and_artifacts_secondary_8 = as.matrix(agents_and_artifacts_secondary_8)
 
