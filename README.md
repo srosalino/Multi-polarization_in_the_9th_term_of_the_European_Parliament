@@ -1,4 +1,6 @@
-**Important note**: Due to size constraints (file bigger than 50 MB), we couldn't upload the file "member_votes.csv" to the datasets/first_stage path. As a result, if you would like to replicate the results please download the file "member_votes.csv" through the following link: https://drive.google.com/file/d/1UmeMnNpG7KRlaJn3D7gTjVmsZAIIeLX8/view?usp=sharing and add it to the datasets/first_stage path.
+**Important note**: Due to file size constraints (exceeding 50 MB), we were unable to upload *member_votes.csv* to the `datasets/first_stage` directory. To replicate the results, please manually download *member_votes.csv* from the following link:  
+https://drive.google.com/file/d/1UmeMnNpG7KRlaJn3D7gTjVmsZAIIeLX8/view?usp=sharing and place it in the `datasets/first_stage` directory.
+
 
 ------------------
 
